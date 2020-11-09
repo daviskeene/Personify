@@ -1,5 +1,5 @@
-from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
 
 import pandas as pd
 
@@ -57,6 +57,7 @@ def get_track_features(id):
     sp = get_client()
     meta = sp.track(id)
     features = sp.audio_features(id)
+    print(meta['name'])
 
     # meta
     name = meta['name']
@@ -108,9 +109,37 @@ def get_discography_data(artist):
     df.to_csv(f"discography_{artist['name']}.csv", sep = ',')
     return df
 
+
+def get_user_top_tracks(sp_range):
+    from spotipy.oauth2 import SpotifyOAuth
+
+    scope = 'user-top-read'
+    sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
+
+    ids = []
+    results = sp.current_user_top_tracks(time_range=sp_range, limit=75)
+    for i, item in enumerate(results['items']):
+        ids.append(item['id'])
+    return ids
+
+def get_user_top_tracks_data():
+
+    ranges = ['short_term', 'medium_term', 'long_term']
+    for r in ranges:
+        track_ids = get_user_top_tracks(r)
+
+        features = []
+        for id in track_ids:
+            features.append(get_track_features(id))
+
+        df = pd.DataFrame(features, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'time_signature'])
+        df.to_csv(f"user_daviskeene_{r}.csv", sep = ',')
+    
+
 def main(artist):
     artist = get_artist(artist)
     get_discography_data(artist)
 
 if __name__ == "__main__":
-    main("Tobi Lou")
+    get_user_top_tracks_data()
+    # main("Tobi Lou")
