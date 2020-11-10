@@ -1,0 +1,304 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Not In This Town,Lost Songs (Found),Two Door Cinema Club,2020-06-05,196257,36,0.502,0.0017,0.502,0.876,0.0,0.258,-4.002,0.0444,136.973,4
+1,Something Good Can Work - Original Demo,Lost Songs (Found),Two Door Cinema Club,2020-06-05,176065,33,0.592,6.56e-05,0.592,0.819,0.0254,0.105,-12.528,0.0493,119.991,4
+2,Tiptoes,Lost Songs (Found),Two Door Cinema Club,2020-06-05,214439,42,0.545,0.00602,0.545,0.672,0.000946,0.0902,-5.658,0.0423,134.021,4
+3,19,Lost Songs (Found),Two Door Cinema Club,2020-06-05,175960,34,0.572,0.000219,0.572,0.585,0.0,0.215,-6.807,0.0291,145.992,4
+4,Hands Off My Cash Monty,Lost Songs (Found),Two Door Cinema Club,2020-06-05,165067,33,0.423,0.00022,0.423,0.733,0.0,0.581,-5.237,0.0381,160.09,4
+5,Impatience is a Virtue,Lost Songs (Found),Two Door Cinema Club,2020-06-05,163384,32,0.664,8.06e-05,0.664,0.77,0.0077,0.545,-4.802,0.0329,130.04,4
+6,Too Much Coffee,Lost Songs (Found),Two Door Cinema Club,2020-06-05,169717,32,0.569,0.000231,0.569,0.845,0.696,0.113,-6.361,0.0335,145.017,4
+7,Once,False Alarm,Two Door Cinema Club,2019-06-21,198987,39,0.624,0.00328,0.624,0.869,0.000645,0.13,-6.307,0.0419,110.02,4
+8,Talk,False Alarm,Two Door Cinema Club,2019-06-21,264030,40,0.757,0.00843,0.757,0.775,0.00129,0.148,-5.873,0.0737,122.993,4
+9,Satisfaction Guaranteed,False Alarm,Two Door Cinema Club,2019-06-21,227934,34,0.398,0.0261,0.398,0.861,0.000245,0.0822,-4.674,0.0893,121.01,4
+10,So Many People,False Alarm,Two Door Cinema Club,2019-06-21,281987,34,0.685,0.0101,0.685,0.504,8.24e-05,0.0777,-5.743,0.0413,106.998,4
+11,Think,False Alarm,Two Door Cinema Club,2019-06-21,231927,33,0.555,0.133,0.555,0.551,0.028,0.0842,-8.171,0.0729,160.116,4
+12,Nice To See You,False Alarm,Two Door Cinema Club,2019-06-21,373308,33,0.702,0.0338,0.702,0.723,0.00155,0.0926,-6.022,0.0394,110.001,4
+13,Break,False Alarm,Two Door Cinema Club,2019-06-21,128234,30,0.656,0.503,0.656,0.5,0.0182,0.441,-9.798,0.03,80.009,4
+14,Dirty Air,False Alarm,Two Door Cinema Club,2019-06-21,243828,44,0.605,0.00415,0.605,0.945,0.00114,0.105,-4.941,0.0379,138.022,4
+15,Satellite,False Alarm,Two Door Cinema Club,2019-06-21,259504,38,0.708,0.00295,0.708,0.737,0.154,0.0899,-6.75,0.0395,127.999,4
+16,Already Gone,False Alarm,Two Door Cinema Club,2019-06-21,221650,29,0.606,0.149,0.606,0.66,0.00918,0.082,-4.968,0.033,142.005,4
+17,Talk - Single Edit,False Alarm,Two Door Cinema Club,2019-06-21,216503,47,0.742,0.00852,0.742,0.801,0.000175,0.141,-5.725,0.0694,122.972,4
+18,Satellite - Single Edit,False Alarm,Two Door Cinema Club,2019-06-21,201335,42,0.74,0.00347,0.74,0.697,0.0378,0.201,-6.545,0.0386,127.984,4
+19,Are We Ready? (Wreck),Gameshow,Two Door Cinema Club,2016-10-14,230853,25,0.601,0.00522,0.601,0.752,0.00732,0.337,-6.626,0.032,93.988,4
+20,Bad Decisions,Gameshow,Two Door Cinema Club,2016-10-14,297786,23,0.62,0.0494,0.62,0.678,0.0123,0.134,-9.111,0.0353,105.99,4
+21,Ordinary,Gameshow,Two Door Cinema Club,2016-10-14,298933,21,0.774,0.109,0.774,0.546,0.00365,0.105,-8.644,0.0364,122.02,4
+22,Gameshow,Gameshow,Two Door Cinema Club,2016-10-14,232586,20,0.562,0.00163,0.562,0.687,0.0386,0.319,-6.813,0.0434,131.977,4
+23,Lavender,Gameshow,Two Door Cinema Club,2016-10-14,235893,23,0.831,0.0606,0.831,0.439,0.000574,0.0512,-7.015,0.0704,96.009,4
+24,Fever,Gameshow,Two Door Cinema Club,2016-10-14,281920,19,0.608,0.0726,0.608,0.688,0.345,0.191,-6.35,0.047,109.98,4
+25,Invincible,Gameshow,Two Door Cinema Club,2016-10-14,269173,17,0.477,0.0448,0.477,0.531,0.000634,0.486,-7.078,0.0546,163.828,4
+26,Good Morning,Gameshow,Two Door Cinema Club,2016-10-14,236173,19,0.766,0.307,0.766,0.699,0.000411,0.15,-6.776,0.0305,115.03,4
+27,Surgery,Gameshow,Two Door Cinema Club,2016-10-14,276333,17,0.783,0.0978,0.783,0.463,0.000255,0.0839,-8.599,0.077,99.995,4
+28,Je Viens De La,Gameshow,Two Door Cinema Club,2016-10-14,224626,18,0.642,0.0131,0.642,0.72,0.000116,0.0681,-6.457,0.0677,117.993,4
+29,Are We Ready? (Wreck),Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,230853,55,0.601,0.00476,0.601,0.784,0.0127,0.347,-5.622,0.0333,94.019,4
+30,Bad Decisions,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,297786,48,0.63,0.0491,0.63,0.709,0.00813,0.128,-8.15,0.0351,105.992,4
+31,Ordinary,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,298933,42,0.775,0.114,0.775,0.577,0.00309,0.11,-7.638,0.0358,122.026,4
+32,Gameshow,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,232586,36,0.555,0.00164,0.555,0.716,0.0348,0.296,-5.802,0.0474,131.985,4
+33,Lavender,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,235893,46,0.833,0.0572,0.833,0.455,0.00095,0.0491,-6.026,0.0699,96.025,4
+34,Fever,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,281920,34,0.611,0.0802,0.611,0.72,0.405,0.178,-5.306,0.0481,109.943,4
+35,Invincible,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,269173,32,0.483,0.0487,0.483,0.565,0.000863,0.487,-6.063,0.0595,163.9,4
+36,Good Morning,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,236173,41,0.77,0.292,0.77,0.729,0.000268,0.151,-5.775,0.0306,115.032,4
+37,Surgery,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,276333,30,0.78,0.104,0.78,0.485,0.000397,0.0836,-7.6,0.0727,99.999,4
+38,Je Viens De La,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,224626,34,0.638,0.013,0.638,0.75,0.000122,0.0688,-5.45,0.0689,118.009,4
+39,Gasoline,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,219773,30,0.644,0.365,0.644,0.702,0.0657,0.0815,-6.699,0.05,169.894,4
+40,Sucker,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,257253,32,0.348,0.291,0.348,0.576,0.0533,0.132,-6.471,0.0607,74.981,3
+41,Ordinary - Sam Holiday Remix; Bonus Track,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,266626,26,0.74,0.000698,0.74,0.659,0.728,0.284,-6.988,0.0394,119.001,4
+42,Bad Decisions - Kev's Summer Time Madness Remix; Bonus Track,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,370106,24,0.654,0.0238,0.654,0.896,0.00117,0.03,-5.829,0.0725,107.999,4
+43,Gameshow - Live at Bonnaroo 2016; Bonus Track,Gameshow (Deluxe Edition),Two Door Cinema Club,2016-10-14,236400,23,0.497,0.000207,0.497,0.903,8.88e-06,0.48,-4.795,0.184,131.975,4
+44,Cigarettes in the Theatre,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,214293,32,0.452,9.17e-05,0.452,0.882,0.156,0.115,-5.154,0.24,168.994,4
+45,Come Back Home,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,203933,29,0.605,0.00138,0.605,0.871,0.0134,0.524,-5.131,0.0553,124.93,4
+46,Undercover Martyn,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,167773,34,0.447,0.000253,0.447,0.862,7.19e-06,0.0719,-4.898,0.124,159.864,4
+47,Do You Want It All?,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,209386,29,0.522,0.00162,0.522,0.8,0.000341,0.0709,-4.974,0.0615,153.913,1
+48,This Is the Life,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,210733,29,0.451,6.87e-05,0.451,0.788,0.0282,0.0882,-5.211,0.111,135.986,4
+49,Something Good Can Work,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,164186,32,0.647,0.00528,0.647,0.829,0.000571,0.173,-5.025,0.0347,119.91,4
+50,I Can Talk,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,177400,32,0.472,2.77e-05,0.472,0.757,0.156,0.196,-4.85,0.214,162.942,4
+51,What You Know,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,191426,38,0.549,0.000741,0.549,0.755,6.06e-06,0.0786,-3.991,0.0403,139.034,4
+52,"Eat That Up, It's Good for You",Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,225426,30,0.506,0.00213,0.506,0.877,0.00634,0.343,-5.145,0.0529,154.896,4
+53,You're Not Stubborn,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,190560,26,0.61,3.41e-05,0.61,0.887,4.45e-06,0.337,-4.251,0.0542,131.98,4
+54,Kids,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,183146,27,0.546,0.0011,0.546,0.901,0.00037,0.329,-3.345,0.0449,136.119,4
+55,Undercover Martyn - Passion Pit Remix,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,239986,20,0.582,0.00114,0.582,0.883,0.000575,0.0805,-7.049,0.0545,160.016,4
+56,What You Know - Cassian Remix,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,296573,19,0.678,0.0226,0.678,0.888,0.027,0.0435,-3.906,0.045,125.0,4
+57,Something Good Can Work - The Twelves Remix,Tourist History (Deluxe),Two Door Cinema Club,2013-04-23,249560,30,0.662,0.00689,0.662,0.919,0.557,0.0634,-6.031,0.0365,119.951,4
+58,Next Year,Beacon,Two Door Cinema Club,2012-09-03,251480,34,0.568,0.00278,0.568,0.807,0.00115,0.0712,-4.782,0.0742,127.525,4
+59,Handshake,Beacon,Two Door Cinema Club,2012-09-03,211097,44,0.561,9.48e-05,0.561,0.833,0.262,0.459,-5.042,0.0268,130.986,4
+60,Wake Up,Beacon,Two Door Cinema Club,2012-09-03,225800,39,0.524,3.63e-05,0.524,0.825,0.726,0.72,-4.388,0.0381,134.963,4
+61,Sun,Beacon,Two Door Cinema Club,2012-09-03,187720,60,0.647,0.0112,0.647,0.532,0.000271,0.1,-5.464,0.0282,96.979,4
+62,Someday,Beacon,Two Door Cinema Club,2012-09-03,223120,42,0.484,1.01e-05,0.484,0.921,0.643,0.198,-4.576,0.0352,144.007,4
+63,Sleep Alone,Beacon,Two Door Cinema Club,2012-09-03,236440,54,0.52,0.000112,0.52,0.759,0.00256,0.0934,-5.006,0.0413,148.019,4
+64,The World Is Watching,Beacon,Two Door Cinema Club,2012-09-03,216400,40,0.589,9.4e-05,0.589,0.687,0.74,0.152,-7.386,0.0279,124.001,4
+65,Settle,Beacon,Two Door Cinema Club,2012-09-03,232341,35,0.482,0.00632,0.482,0.773,0.0384,0.087,-5.695,0.0366,131.779,3
+66,Spring,Beacon,Two Door Cinema Club,2012-09-03,204308,38,0.642,0.00971,0.642,0.761,0.12,0.115,-6.286,0.0349,125.949,4
+67,Pyramid,Beacon,Two Door Cinema Club,2012-09-03,189600,34,0.613,0.000656,0.613,0.746,0.0611,0.0914,-6.591,0.0357,141.293,4
+68,Beacon,Beacon,Two Door Cinema Club,2012-09-03,204610,34,0.735,0.0121,0.735,0.538,0.0636,0.0518,-5.986,0.0437,122.023,4
+69,Sleep Alone - The Knocks Remix,Beacon,Two Door Cinema Club,2012-09-03,288953,25,0.613,3.15e-05,0.613,0.911,0.892,0.0756,-5.131,0.075,135.009,4
+70,Next Year,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,251480,22,0.565,0.0024,0.565,0.791,0.00116,0.0704,-5.528,0.0719,127.445,4
+71,Handshake,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,211097,21,0.555,9e-05,0.555,0.813,0.384,0.412,-5.789,0.0269,130.989,4
+72,Wake Up,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,225800,19,0.525,3.19e-05,0.525,0.809,0.668,0.72,-5.115,0.0358,134.982,4
+73,Sun,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,187720,23,0.648,0.0105,0.648,0.514,0.000386,0.102,-6.177,0.0284,96.998,4
+74,Someday,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,223120,20,0.483,1.09e-05,0.483,0.906,0.608,0.19,-5.44,0.0345,144.011,4
+75,Sleep Alone,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,236440,23,0.51,9.54e-05,0.51,0.737,0.00403,0.0921,-5.822,0.0397,148.028,4
+76,The World Is Watching,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,216400,18,0.595,0.000108,0.595,0.662,0.789,0.152,-8.153,0.0282,124.013,4
+77,Settle,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,232341,17,0.482,0.00622,0.482,0.773,0.054,0.0841,-5.677,0.0363,131.856,3
+78,Spring,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,204308,17,0.638,0.00831,0.638,0.739,0.133,0.115,-7.209,0.0355,125.946,4
+79,Pyramid,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,189600,17,0.612,0.000687,0.612,0.722,0.064,0.0932,-7.332,0.0358,141.261,4
+80,Beacon,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,204610,17,0.739,0.012,0.739,0.513,0.0815,0.0521,-6.714,0.0439,122.021,4
+81,Remember My Name,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,171746,24,0.529,0.0236,0.529,0.71,0.00583,0.145,-6.586,0.155,133.764,4
+82,Cigarettes In the Theatre - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,305825,19,0.187,0.000234,0.187,0.898,0.369,0.897,-6.396,0.101,168.871,4
+83,Undercover Martyn - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,184575,20,0.441,0.000124,0.441,0.944,0.000856,0.914,-6.492,0.0808,159.983,4
+84,Do You Want It All? - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,229186,18,0.468,0.000453,0.468,0.914,0.000556,0.367,-6.494,0.0474,154.017,1
+85,This Is the Life - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,199599,18,0.434,3.89e-05,0.434,0.932,0.412,0.708,-5.782,0.0408,136.158,4
+86,Something Good Can Work - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,190901,19,0.567,0.00223,0.567,0.944,0.112,0.894,-6.938,0.0534,120.035,4
+87,Handshake - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,245249,17,0.536,0.00192,0.536,0.817,0.224,0.901,-7.37,0.0409,131.032,4
+88,Costume Party - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,220043,19,0.543,0.00332,0.543,0.875,0.000132,0.969,-5.784,0.0376,142.995,4
+89,You're Not Stubborn - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,206320,17,0.53,0.00154,0.53,0.931,0.0,0.969,-6.038,0.0523,131.967,4
+90,Settle - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,239006,16,0.266,0.0131,0.266,0.877,0.0121,0.661,-7.077,0.0724,131.946,3
+91,"Eat It Up, It's Good for You - Live at Brixton Academy London 2012",Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,252312,18,0.438,0.00106,0.438,0.832,0.00505,0.183,-7.288,0.0476,155.138,4
+92,What You Know - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,276600,27,0.477,0.0138,0.477,0.928,0.000194,0.712,-5.925,0.123,139.01,4
+93,Sleep Alone - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,235205,17,0.456,0.00138,0.456,0.936,7.42e-05,0.719,-5.515,0.0622,147.918,4
+94,Come Back Home - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,258300,16,0.538,0.0155,0.538,0.893,0.000246,0.178,-5.836,0.0672,124.944,4
+95,I Can Talk - Live at Brixton Academy London 2012,Beacon (Deluxe Version),Two Door Cinema Club,2012-09-03,217101,18,0.365,0.000156,0.365,0.909,0.00133,0.765,-5.837,0.0872,162.991,4
+96,Next Year,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,251480,28,0.566,0.00282,0.566,0.804,0.00105,0.071,-4.783,0.0764,127.568,4
+97,Handshake,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,211097,12,0.561,9.07e-05,0.561,0.832,0.282,0.433,-5.046,0.0269,130.984,4
+98,Wake Up,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,225800,6,0.523,3.51e-05,0.523,0.823,0.715,0.72,-4.386,0.0383,134.956,4
+99,Sun,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,187720,20,0.647,0.011,0.647,0.534,0.000249,0.104,-5.439,0.0279,96.98,4
+100,Someday,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,223120,8,0.484,1e-05,0.484,0.923,0.644,0.192,-4.578,0.0352,144.01,4
+101,Sleep Alone,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,236440,17,0.521,0.000111,0.521,0.759,0.00292,0.0931,-5.008,0.0419,148.044,4
+102,The World Is Watching (with Valentina),Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,216400,10,0.592,9.74e-05,0.592,0.685,0.777,0.152,-7.39,0.0279,124.001,4
+103,Settle,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,232341,10,0.484,0.00592,0.484,0.767,0.0428,0.0829,-5.681,0.0363,131.789,3
+104,Spring,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,204308,5,0.644,0.00952,0.644,0.757,0.118,0.115,-6.291,0.0351,125.947,4
+105,Pyramid,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,189600,4,0.612,0.000694,0.612,0.744,0.053,0.0917,-6.573,0.0358,141.289,4
+106,Beacon,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,204610,7,0.735,0.0119,0.735,0.541,0.0661,0.0514,-5.989,0.0437,122.017,4
+107,Cigarettes In The Theatre - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,305826,3,0.244,0.00024,0.244,0.913,0.324,0.899,-5.658,0.101,168.941,4
+108,Undercover Martyn - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,184586,4,0.444,0.000127,0.444,0.949,0.00182,0.897,-5.765,0.0915,159.936,4
+109,Do You Want It All? - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,229186,2,0.471,0.000402,0.471,0.923,0.000632,0.362,-5.728,0.046,153.992,1
+110,This Is The Life - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,199586,4,0.44,3.08e-05,0.44,0.944,0.218,0.712,-4.975,0.0428,136.126,4
+111,Something Good Can Work - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,190906,3,0.577,0.00214,0.577,0.953,0.0972,0.891,-6.15,0.0502,120.027,4
+112,Handshake - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,245253,2,0.538,0.00175,0.538,0.844,0.212,0.904,-6.617,0.0394,131.062,4
+113,Costume Party - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,220040,3,0.544,0.00308,0.544,0.892,0.000133,0.97,-4.962,0.0377,142.969,4
+114,You’re Not Stubborn - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,206320,2,0.534,0.00154,0.534,0.941,0.0,0.966,-5.276,0.0546,131.978,4
+115,Settle - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,239013,2,0.47,0.0131,0.47,0.894,0.0144,0.663,-6.336,0.0642,132.007,3
+116,"Eat That Up, It’s Good For You - Live",Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,252306,3,0.434,0.00107,0.434,0.842,0.00209,0.199,-6.562,0.0498,155.084,4
+117,What You Know - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,276600,6,0.48,0.0135,0.48,0.943,0.000218,0.715,-5.18,0.124,139.052,4
+118,Sleep Alone - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,235213,2,0.441,0.00113,0.441,0.945,8.53e-05,0.718,-4.763,0.0643,147.958,4
+119,Come Back Home - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,258293,2,0.531,0.0144,0.531,0.905,0.000809,0.183,-5.107,0.0719,124.938,4
+120,I Can Talk - Live,Beacon + Live at Brixton Academy [Deluxe Edition],Two Door Cinema Club,2012-09-03,217106,2,0.367,0.00017,0.367,0.918,0.000395,0.762,-5.102,0.0947,162.909,4
+121,Next Year,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,251480,15,0.557,0.00299,0.557,0.816,0.000859,0.0717,-4.786,0.0752,127.43,4
+122,Handshake,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,211093,13,0.555,9.31e-05,0.555,0.829,0.511,0.438,-5.015,0.0269,131.001,4
+123,Wake Up,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,225800,11,0.52,3.7e-05,0.52,0.812,0.701,0.725,-4.375,0.0369,134.969,4
+124,Sun,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,187720,19,0.646,0.0095,0.646,0.54,0.000314,0.111,-5.471,0.0288,96.971,4
+125,Some Day,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,223120,12,0.479,9.58e-06,0.479,0.917,0.701,0.203,-4.61,0.0345,144.011,4
+126,Sleep Alone,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,236440,18,0.524,0.000112,0.524,0.76,0.00237,0.0929,-4.956,0.0428,148.01,4
+127,The World Is Watching,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,216400,10,0.6,0.000114,0.6,0.676,0.74,0.154,-7.393,0.0283,123.997,4
+128,Settle,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,232346,3,0.484,0.00696,0.484,0.781,0.064,0.0874,-5.661,0.0377,131.797,3
+129,Spring,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,204306,10,0.639,0.00821,0.639,0.767,0.127,0.114,-6.279,0.0357,125.955,4
+130,Pyramid,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,189600,2,0.391,0.000622,0.391,0.738,0.0591,0.0977,-6.576,0.0419,141.233,4
+131,Beacon,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,203426,2,0.74,0.0133,0.74,0.537,0.051,0.0508,-5.984,0.044,122.026,4
+132,Start Again,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,255813,1,0.391,0.000996,0.391,0.836,9.13e-05,0.35,-4.467,0.0754,133.958,4
+133,Sleep Alone - acoustic,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,245946,1,0.692,0.385,0.692,0.607,0.0,0.116,-7.915,0.051,134.915,4
+134,Cigarettes In the Theatre - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,305946,1,0.201,0.0002,0.201,0.909,0.337,0.909,-5.69,0.104,168.899,4
+135,Undercover Martyn - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,184586,0,0.437,0.00013,0.437,0.947,0.00129,0.897,-5.763,0.0906,159.998,4
+136,Do You Want It All? - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,229186,0,0.469,0.000451,0.469,0.928,0.000348,0.363,-5.777,0.0456,153.982,1
+137,This Is the Life - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,199586,1,0.444,3.07e-05,0.444,0.94,0.215,0.71,-4.976,0.0407,136.091,4
+138,Something Good Can Work - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,190906,1,0.553,0.00228,0.553,0.95,0.13,0.904,-6.179,0.0551,120.009,4
+139,Handshake - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,245253,0,0.541,0.0019,0.541,0.847,0.137,0.906,-6.622,0.0406,131.044,4
+140,Costume Party - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,220040,0,0.547,0.00295,0.547,0.898,0.000113,0.973,-4.981,0.037,143.015,4
+141,You're Not Stubborn - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,206320,0,0.532,0.00175,0.532,0.941,0.0,0.97,-5.295,0.0549,131.973,4
+142,Settle - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,239013,0,0.491,0.0121,0.491,0.893,0.0138,0.664,-6.341,0.0579,131.968,3
+143,"Eat That Up, It's Good For You - Live At Brixton",Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,252306,2,0.454,0.000943,0.454,0.858,0.0042,0.19,-6.558,0.0537,154.967,4
+144,What You Know - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,276600,1,0.466,0.0135,0.466,0.936,0.000185,0.716,-5.161,0.165,139.018,4
+145,Sleep Alone - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,235213,0,0.449,0.00139,0.449,0.944,6.84e-05,0.717,-4.76,0.0615,147.943,4
+146,Come Back Home - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,258293,0,0.531,0.0142,0.531,0.905,0.000387,0.196,-5.11,0.0683,124.939,4
+147,I Can Talk - Live At Brixton,Beacon (deluxe edition),Two Door Cinema Club,2012-09-02,216573,1,0.366,0.000178,0.366,0.918,0.000476,0.749,-5.095,0.0895,162.99,4
+148,Undercover Martyn - Passion Pit Remix,Tourist History Remixes,Two Door Cinema Club,2011,305786,12,0.789,0.00708,0.789,0.852,0.205,0.0678,-5.99,0.0502,123.972,4
+149,I Can Talk - Moulinex Remix,Tourist History Remixes,Two Door Cinema Club,2011,310440,12,0.763,0.0143,0.763,0.751,1.55e-06,0.0673,-5.486,0.171,132.006,4
+150,Come Back Home - Myd Remix,Tourist History Remixes,Two Door Cinema Club,2011,241973,10,0.585,0.00118,0.585,0.881,0.000245,0.0654,-7.392,0.0575,159.993,4
+151,Something Good Can Work - The Twelves Remix,Tourist History Remixes,Two Door Cinema Club,2011,251266,37,0.66,0.00689,0.66,0.916,0.461,0.0913,-6.387,0.0368,119.949,4
+152,Undercover Martyn - Whatever Whatever Remix,Tourist History Remixes,Two Door Cinema Club,2011,511093,10,0.777,1.23e-05,0.777,0.908,0.144,0.0684,-4.885,0.0535,122.997,4
+153,What You Know - Cassian Remix,Tourist History Remixes,Two Door Cinema Club,2011,298586,14,0.677,0.0259,0.677,0.883,0.0316,0.0581,-4.113,0.0451,125.005,4
+154,Undercover Martyn - Jupiter Remix,Tourist History Remixes,Two Door Cinema Club,2011,224840,10,0.859,0.149,0.859,0.498,0.0,0.148,-5.231,0.431,130.021,4
+155,Cigarettes in the Theatre,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,213533,35,0.459,8.33e-05,0.459,0.883,0.185,0.163,-5.141,0.24,168.953,4
+156,Come Back Home,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,202853,32,0.602,0.00119,0.602,0.877,0.0201,0.582,-5.12,0.056,124.928,4
+157,Do You Want It All ?,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,208213,32,0.516,0.00159,0.516,0.818,0.000466,0.0824,-5.014,0.0652,153.92,1
+158,This Is the Life,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,209773,33,0.463,6.28e-05,0.463,0.788,0.0131,0.0945,-5.227,0.1,136.056,4
+159,Something Good Can Work,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,162906,34,0.646,0.00574,0.646,0.836,0.00112,0.191,-5.101,0.0334,119.961,4
+160,I Can Talk,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,175906,34,0.472,3.22e-05,0.472,0.749,0.0974,0.271,-4.864,0.197,162.945,4
+161,Undercover Martyn,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,166573,35,0.444,0.000238,0.444,0.871,8.61e-06,0.103,-4.901,0.117,159.864,4
+162,What You Know,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,189693,35,0.549,0.000662,0.549,0.756,6.57e-06,0.092,-4.013,0.0406,139.048,4
+163,"Eat That Up, It's Good For You",Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,223906,33,0.514,0.00249,0.514,0.872,0.00385,0.36,-5.144,0.054,154.892,4
+164,You Are Not Stubborn,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,190573,30,0.611,3.89e-05,0.611,0.889,6.51e-06,0.37,-4.231,0.0559,131.999,4
+165,Kids,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,183720,35,0.542,0.000966,0.542,0.907,0.000358,0.324,-3.348,0.0464,136.11,4
+166,Undercover Martyn - Whatever / Whatever Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,507120,26,0.776,1.17e-05,0.776,0.917,0.148,0.0884,-4.652,0.0531,122.999,4
+167,I Can Talk - French Horn Rebellion Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,262666,22,0.691,0.00645,0.691,0.749,0.621,0.0476,-5.502,0.0564,128.494,4
+168,Come Back Home - Is Tropical Chilla Black Edit,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,261933,22,0.488,6.52e-06,0.488,0.901,0.886,0.544,-3.355,0.0291,125.019,4
+169,Undercover Martyn - Jupiter Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,223053,22,0.864,0.15,0.864,0.495,0.0,0.118,-4.978,0.435,130.025,4
+170,I Can Talk - Moulinex Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,302800,22,0.787,0.00723,0.787,0.86,0.173,0.0912,-5.773,0.0499,123.955,4
+171,What You Know - Cassian Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,294320,23,0.676,0.025,0.676,0.891,0.0238,0.0288,-3.905,0.0443,125.014,4
+172,Come Back Home - Myd Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,306853,21,0.76,0.0151,0.76,0.752,1.46e-06,0.0778,-5.235,0.19,132.065,4
+173,Something Good Can Work - Ted & Francis Remix - Deluxe Ed. Version,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,204133,27,0.673,0.00369,0.673,0.838,0.00376,0.567,-4.887,0.0575,119.889,4
+174,Undercover Martyn - Softwar Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,397960,21,0.715,0.165,0.715,0.759,0.137,0.118,-5.956,0.039,120.997,4
+175,Something Good Can Work - The Twelves Remix,Tourist History (Deluxe Edition),Two Door Cinema Club,2010-10-18,249386,36,0.654,0.00769,0.654,0.915,0.527,0.0539,-6.0,0.0371,119.952,4
+176,Cigarettes in the Theatre,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,214373,2,0.449,9.22e-05,0.449,0.879,0.177,0.113,-5.114,0.254,169.012,4
+177,Come Back Home,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,204080,0,0.603,0.00124,0.603,0.879,0.0184,0.409,-5.184,0.0563,124.915,4
+178,Do You Want It All?,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,209400,0,0.526,0.00196,0.526,0.805,0.000429,0.0584,-4.975,0.0609,153.968,1
+179,This is The Life,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,210760,1,0.458,5.68e-05,0.458,0.812,0.0161,0.0877,-5.211,0.122,136.008,4
+180,Something Good Can Work,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,164200,2,0.65,0.00526,0.65,0.823,0.000662,0.171,-5.049,0.0346,119.922,4
+181,I Can Talk,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,177026,1,0.469,2.89e-05,0.469,0.786,0.249,0.202,-4.85,0.247,162.977,4
+182,Undercover Martyn,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,168120,3,0.454,0.000245,0.454,0.874,8.45e-06,0.083,-4.864,0.118,159.82,4
+183,What You Know,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,191413,4,0.557,0.000807,0.557,0.735,1.6e-05,0.0739,-4.005,0.0418,139.015,4
+184,"Eat That Up, It's Good For You",Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,225453,2,0.493,0.00224,0.493,0.879,0.00402,0.366,-5.169,0.0509,154.912,4
+185,You're Not Stubborn,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,192213,2,0.608,3.99e-05,0.608,0.886,6.13e-06,0.325,-4.226,0.0568,131.982,4
+186,Kids,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,184373,1,0.547,0.00108,0.547,0.903,0.000314,0.324,-3.354,0.0482,136.092,4
+187,Undercover Martyn - Whatever / Whatever Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,509120,0,0.777,1.18e-05,0.777,0.912,0.138,0.111,-4.66,0.0536,123.001,4
+188,I Can Talk - French Horn Rebellion,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,264986,0,0.699,0.00499,0.699,0.757,0.626,0.0597,-5.475,0.0595,128.476,4
+189,Come Back Home - Is Tropical Chilla Black Edit,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,263720,0,0.492,8.18e-06,0.492,0.904,0.906,0.427,-3.35,0.029,125.02,4
+190,Undercover Martyn - Jupiter Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,224573,0,0.861,0.138,0.861,0.492,0.0,0.129,-5.009,0.435,130.011,4
+191,I Can Talk - Moulinex Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,303680,0,0.785,0.00729,0.785,0.862,0.279,0.0885,-5.766,0.0497,123.963,4
+192,What You Know - Cassian Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,296600,0,0.678,0.0245,0.678,0.883,0.0304,0.0474,-3.908,0.0452,124.998,4
+193,Come Back Home - Myd Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,308453,0,0.76,0.0129,0.76,0.765,2.18e-06,0.0813,-5.221,0.203,132.053,4
+194,Something Good Can Work - Ted & Francis Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,204880,0,0.686,0.00348,0.686,0.839,0.00324,0.475,-4.86,0.0493,119.95,4
+195,Undercover Martyn - Softwar Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,401333,0,0.708,0.166,0.708,0.763,0.122,0.0939,-5.944,0.0399,121.015,4
+196,Something Good Can Work - The Twelves Remix,Tourist History (Special Edition),Two Door Cinema Club,2010-10-18,248760,0,0.658,0.0091,0.658,0.919,0.419,0.052,-6.006,0.0362,119.932,4
+197,Cigarettes in the Theatre,Tourist History,Two Door Cinema Club,2010-04-27,214293,39,0.452,9.17e-05,0.452,0.882,0.156,0.115,-5.154,0.24,168.994,4
+198,Come Back Home,Tourist History,Two Door Cinema Club,2010-04-27,203933,34,0.605,0.00138,0.605,0.871,0.0134,0.524,-5.131,0.0553,124.93,4
+199,Undercover Martyn,Tourist History,Two Door Cinema Club,2010-04-27,167773,57,0.447,0.000253,0.447,0.862,7.19e-06,0.0719,-4.898,0.124,159.864,4
+200,Do You Want It All?,Tourist History,Two Door Cinema Club,2010-04-27,209386,35,0.522,0.00162,0.522,0.8,0.000341,0.0709,-4.974,0.0615,153.913,1
+201,This Is the Life,Tourist History,Two Door Cinema Club,2010-04-27,210733,39,0.451,6.87e-05,0.451,0.788,0.0282,0.0882,-5.211,0.111,135.986,4
+202,Something Good Can Work,Tourist History,Two Door Cinema Club,2010-04-27,164186,52,0.647,0.00528,0.647,0.829,0.000571,0.173,-5.025,0.0347,119.91,4
+203,I Can Talk,Tourist History,Two Door Cinema Club,2010-04-27,177400,46,0.472,2.77e-05,0.472,0.757,0.156,0.196,-4.85,0.214,162.942,4
+204,What You Know,Tourist History,Two Door Cinema Club,2010-04-27,191426,64,0.549,0.000741,0.549,0.755,6.06e-06,0.0786,-3.991,0.0403,139.034,4
+205,"Eat That Up, It's Good for You",Tourist History,Two Door Cinema Club,2010-04-27,225426,38,0.506,0.00213,0.506,0.877,0.00634,0.343,-5.145,0.0529,154.896,4
+206,You're Not Stubborn,Tourist History,Two Door Cinema Club,2010-04-27,190560,32,0.61,3.41e-05,0.61,0.887,4.45e-06,0.337,-4.251,0.0542,131.98,4
+207,Isolation,Isolation,Two Door Cinema Club,2020-05-15,171904,38,0.362,0.00956,0.362,0.465,0.0,0.264,-14.576,0.0595,125.634,4
+208,Satellite - Derrick Carter Bassline Edition,False Alarm (Remixed),Two Door Cinema Club,2019-09-06,515600,11,0.707,7.51e-05,0.707,0.821,0.505,0.0534,-8.151,0.0674,126.982,4
+209,So Many People - High Contrast Remix,False Alarm (Remixed),Two Door Cinema Club,2019-09-06,315117,21,0.509,0.0189,0.509,0.953,0.28,0.275,-3.129,0.0883,173.99,4
+210,Talk - Ruf Dug Manctalo Dub,False Alarm (Remixed),Two Door Cinema Club,2019-09-06,289969,7,0.708,4.98e-05,0.708,0.847,0.908,0.0919,-6.554,0.0528,122.995,4
+211,Talk - Ruf Dug Manctalo Vocal,False Alarm (Remixed),Two Door Cinema Club,2019-09-06,293791,7,0.723,5.28e-05,0.723,0.734,0.754,0.0794,-7.193,0.0547,123.0,4
+212,Satellite - Derrick Carter Bassline edition,False Alarm - Remixed,Two Door Cinema Club,2019-09-06,515600,11,0.707,7.47e-05,0.707,0.819,0.509,0.0535,-8.16,0.0678,126.985,4
+213,So Many People - High Contrast Remix,False Alarm - Remixed,Two Door Cinema Club,2019-09-06,315117,23,0.511,0.0222,0.511,0.955,0.29,0.277,-3.14,0.0928,173.98,4
+214,Talk - Ruf Dug Manctalo Dub,False Alarm - Remixed,Two Door Cinema Club,2019-09-06,289969,9,0.709,4.97e-05,0.709,0.848,0.908,0.0917,-6.556,0.0529,122.996,4
+215,Talk - Ruf Dug Manctalo Vocal,False Alarm - Remixed,Two Door Cinema Club,2019-09-06,293791,9,0.723,5.3e-05,0.723,0.735,0.766,0.0793,-7.197,0.0548,123.003,4
+216,Once - Single Edit,Once,Two Door Cinema Club,2019-08-15,208673,33,0.645,0.00308,0.645,0.874,0.00068,0.116,-5.572,0.0411,110.01,4
+217,Once - Single Edit,Once (Single Edit),Two Door Cinema Club,2019-08-15,208673,33,0.647,0.00316,0.647,0.87,0.000586,0.116,-5.565,0.0411,110.014,4
+218,Dirty Air,Dirty Air,Two Door Cinema Club,2019-05-22,243828,28,0.606,0.00419,0.606,0.944,0.00085,0.104,-4.934,0.0378,138.022,4
+219,Satellite - Single Edit,Dirty Air,Two Door Cinema Club,2019-05-22,201335,18,0.74,0.00347,0.74,0.698,0.0357,0.226,-6.559,0.0386,127.988,4
+220,Talk - Single Edit,Dirty Air,Two Door Cinema Club,2019-05-22,216503,15,0.741,0.00855,0.741,0.806,0.000193,0.141,-5.729,0.0696,122.973,4
+221,Satellite - Single Edit,Satellite,Two Door Cinema Club,2019-04-26,201335,7,0.74,0.00356,0.74,0.693,0.044,0.226,-6.561,0.0387,127.995,4
+222,Talk - Single Edit,Satellite,Two Door Cinema Club,2019-04-26,216503,6,0.742,0.00854,0.742,0.802,0.000167,0.141,-5.726,0.0697,122.968,4
+223,Talk - Single Edit,Talk,Two Door Cinema Club,2019-03-20,216503,11,0.743,0.00877,0.743,0.803,0.000163,0.141,-5.723,0.0709,122.966,4
+224,Talk - Single Edit,Talk (Single Edit),Two Door Cinema Club,2019-03-19,216503,33,0.741,0.00855,0.741,0.806,0.000193,0.141,-5.729,0.0696,122.973,4
+225,Cigarettes In The Theatre - Original Demo,Four Words To Stand On,Two Door Cinema Club,2018-03-23,158640,24,0.229,0.00465,0.229,0.869,0.00218,0.103,-3.756,0.231,169.08,4
+226,Do You Want It All? - Original Demo,Four Words To Stand On,Two Door Cinema Club,2018-03-23,206640,20,0.381,0.0346,0.381,0.754,6.62e-05,0.139,-3.705,0.0699,153.884,1
+227,New Houses,Four Words To Stand On,Two Door Cinema Club,2018-03-23,199160,39,0.406,0.0325,0.406,0.864,1.28e-05,0.121,-4.37,0.0421,144.91,4
+228,Undercover Martyn - Original Demo,Four Words To Stand On,Two Door Cinema Club,2018-03-23,174226,25,0.436,0.0552,0.436,0.814,8.23e-05,0.488,-5.448,0.304,159.888,4
+229,Standing On Ghosts,Four Words To Stand On,Two Door Cinema Club,2018-03-23,211480,36,0.456,0.00738,0.456,0.875,0.00297,0.34,-4.41,0.113,144.056,4
+230,Lavender,Lavender,Two Door Cinema Club,2017-02-24,235893,26,0.833,0.0572,0.833,0.455,0.00095,0.0491,-6.026,0.0699,96.025,4
+231,Bad Decisions - Devo Remix,Bad Decisions (Devo Remix),Two Door Cinema Club,2017-02-17,241538,16,0.652,0.00192,0.652,0.731,0.436,0.295,-9.896,0.0365,111.992,4
+232,Ordinary - Radio Edit,Ordinary (Radio Edit),Two Door Cinema Club,2016-11-25,234857,25,0.725,0.0704,0.725,0.687,0.000972,0.113,-6.379,0.0294,122.005,4
+233,Bad Decisions - Radio Edit,Bad Decisions (Radio Edit),Two Door Cinema Club,2016-10-28,232930,53,0.652,0.0653,0.652,0.722,0.0211,0.259,-7.554,0.0325,105.972,4
+234,Bad Decisions - Purple Disco Machine Remix,Bad Decisions (Remixes),Two Door Cinema Club,2016-10-28,464997,41,0.791,0.0122,0.791,0.697,0.0457,0.0929,-6.745,0.0467,118.007,4
+235,Bad Decisions - Yuksek Remix,Bad Decisions (Remixes),Two Door Cinema Club,2016-10-28,258339,19,0.867,0.112,0.867,0.702,0.0567,0.351,-5.687,0.0949,115.977,4
+236,Bad Decisions - Real Lies Remix,Bad Decisions (Remixes),Two Door Cinema Club,2016-10-28,269259,6,0.601,0.0318,0.601,0.932,0.81,0.191,-7.628,0.049,126.656,4
+237,Bad Decisions - Bee's Knees Remix,Bad Decisions (Remixes),Two Door Cinema Club,2016-10-28,220092,17,0.773,0.0233,0.773,0.588,0.00127,0.0639,-8.177,0.05,109.028,4
+238,Ordinary,Ordinary,Two Door Cinema Club,2016-10-12,298933,14,0.775,0.114,0.775,0.577,0.00309,0.11,-7.638,0.0358,122.026,4
+239,Bad Decisions,Bad Decisions,Two Door Cinema Club,2016-07-29,297786,42,0.63,0.0491,0.63,0.709,0.00813,0.128,-8.15,0.0351,105.992,4
+240,Are We Ready? (Wreck),Are We Ready? (Wreck),Two Door Cinema Club,2016-06-14,230853,35,0.601,0.00476,0.601,0.784,0.0127,0.347,-5.622,0.0333,94.019,4
+241,Changing of the Seasons - Francesco Rossi Remix,Changing of the Seasons (Francesco Rossi Remix),Two Door Cinema Club,2013-10-08,447764,12,0.689,0.000242,0.689,0.654,0.0289,0.114,-5.932,0.0608,124.97,4
+242,Changing of the Seasons,Changing Of The Seasons,Two Door Cinema Club,2013-09-27,222880,55,0.542,5.21e-05,0.542,0.869,0.000222,0.115,-4.429,0.135,130.021,4
+243,Crystal,Changing Of The Seasons,Two Door Cinema Club,2013-09-27,201880,20,0.155,0.257,0.155,0.307,0.592,0.105,-8.062,0.0327,80.8,3
+244,Golden Veins,Changing Of The Seasons,Two Door Cinema Club,2013-09-27,255813,27,0.456,0.0129,0.456,0.877,0.0,0.148,-3.267,0.0612,120.019,4
+245,Changing of the Seasons - Monsieur Adi Remix,Changing Of The Seasons,Two Door Cinema Club,2013-09-27,382973,18,0.58,0.00216,0.58,0.873,2e-06,0.0616,-5.736,0.168,123.035,4
+246,Changing of the Seasons - Alternative Edit,Changing Of The Seasons (Alternative Edit),Two Door Cinema Club,2013-08-16,221913,19,0.567,8.25e-05,0.567,0.759,0.000782,0.0745,-4.057,0.0546,130.029,4
+247,Handshake,Handshake,Two Door Cinema Club,2013-06-03,211097,10,0.556,8.97e-05,0.556,0.813,0.332,0.405,-5.789,0.027,130.993,4
+248,Handshake - Baadman Remix,Handshake,Two Door Cinema Club,2013-06-03,290995,5,0.809,0.0289,0.809,0.697,0.00167,0.0739,-6.572,0.257,126.994,4
+249,Handshake - Amtrac Remix,Handshake,Two Door Cinema Club,2013-06-03,275247,13,0.725,0.00562,0.725,0.611,0.14,0.097,-7.441,0.0407,127.979,4
+250,Handshake - Ghost Loft Remix,Handshake,Two Door Cinema Club,2013-06-03,177787,4,0.802,0.0493,0.802,0.708,0.209,0.317,-7.312,0.0418,130.978,4
+251,Next Year,Next Year (Remixes),Two Door Cinema Club,2013-01-01,251453,12,0.562,0.00232,0.562,0.809,0.000629,0.0732,-4.976,0.0693,127.453,4
+252,Next Year - RAC Remix,Next Year (Remixes),Two Door Cinema Club,2013-01-01,286093,50,0.731,0.28,0.731,0.73,0.0,0.088,-6.728,0.0489,123.051,4
+253,Next Year - Superpoze Remix,Next Year (Remixes),Two Door Cinema Club,2013-01-01,242986,11,0.664,0.00212,0.664,0.571,0.495,0.351,-7.21,0.0333,140.008,4
+254,Next Year - Pyramid Remix,Next Year (Remixes),Two Door Cinema Club,2013-01-01,285133,13,0.691,0.00132,0.691,0.781,0.436,0.173,-6.042,0.0498,127.482,4
+255,Next Year,Next Year,Two Door Cinema Club,2013-01-01,251480,4,0.566,0.00282,0.566,0.804,0.00105,0.071,-4.783,0.0764,127.568,4
+256,Next Year - RAC Remix,Next Year,Two Door Cinema Club,2013-01-01,286125,2,0.73,0.261,0.73,0.743,0.0,0.0875,-6.512,0.0453,123.039,4
+257,Next Year - Superpoze Remix,Next Year,Two Door Cinema Club,2013-01-01,243000,0,0.663,0.00265,0.663,0.584,0.502,0.355,-7.049,0.035,139.999,4
+258,Next Year - Pyramid Remix,Next Year,Two Door Cinema Club,2013-01-01,285120,0,0.69,0.00146,0.69,0.775,0.469,0.166,-5.826,0.0472,127.496,4
+259,Intro - Live,Spotify Sessions (Live From Spotify NYC/2013),Two Door Cinema Club,2013-01-01,72240,5,0.533,0.769,0.533,0.315,1.1e-06,0.118,-18.922,0.559,102.101,3
+260,Sleep Alone - Live,Spotify Sessions (Live From Spotify NYC/2013),Two Door Cinema Club,2013-01-01,263440,16,0.446,0.361,0.446,0.452,0.0,0.135,-8.633,0.133,145.702,4
+261,Undercover Martyn - Live,Spotify Sessions (Live From Spotify NYC/2013),Two Door Cinema Club,2013-01-01,229813,15,0.481,0.314,0.481,0.382,0.0,0.131,-9.934,0.0834,119.559,4
+262,Next Year - Live,Spotify Sessions (Live From Spotify NYC/2013),Two Door Cinema Club,2013-01-01,269906,16,0.478,0.34,0.478,0.397,0.0,0.13,-9.132,0.0779,125.781,4
+263,What You Know - Live,Spotify Sessions (Live From Spotify NYC/2013),Two Door Cinema Club,2013-01-01,199840,35,0.51,0.0299,0.51,0.473,0.0,0.671,-7.737,0.0479,137.787,4
+264,Sun,Sun (Remixes),Two Door Cinema Club,2012-11-19,187720,5,0.647,0.011,0.647,0.534,0.000249,0.0982,-5.438,0.0282,96.984,4
+265,Sun - Fred Falke Remix,Sun (Remixes),Two Door Cinema Club,2012-11-19,394440,5,0.677,0.00334,0.677,0.799,0.00123,0.231,-4.123,0.315,123.954,4
+266,Sun - Gildas Kitsune Club Night Short Remix,Sun (Remixes),Two Door Cinema Club,2012-11-19,243893,7,0.669,0.0906,0.669,0.587,0.669,0.26,-6.774,0.031,123.973,4
+267,Sun - Alex Metric Remix,Sun (Remixes),Two Door Cinema Club,2012-11-19,317908,1,0.614,0.00168,0.614,0.879,0.0109,0.147,-5.755,0.0469,115.009,4
+268,Sun,Sun,Two Door Cinema Club,2012-11-19,187720,12,0.647,0.0109,0.647,0.533,0.000274,0.1,-5.464,0.0281,96.981,4
+269,Sun - Fred Falke Remix,Sun,Two Door Cinema Club,2012-11-19,394440,10,0.677,0.00332,0.677,0.796,0.00125,0.232,-4.12,0.303,123.965,4
+270,Sun - Gildas Kitsune Club Night Short Remix,Sun,Two Door Cinema Club,2012-11-19,243893,18,0.669,0.0862,0.669,0.593,0.65,0.311,-6.775,0.0313,123.97,4
+271,Sun - Alex Metric Remix,Sun,Two Door Cinema Club,2012-11-19,317908,11,0.614,0.00166,0.614,0.88,0.0107,0.147,-5.753,0.0472,115.006,4
+272,Sleep Alone,Sleep Alone,Two Door Cinema Club,2012-09-03,236440,12,0.519,0.000111,0.519,0.76,0.00253,0.0923,-5.006,0.0412,148.05,4
+273,Start Again,Sleep Alone,Two Door Cinema Club,2012-09-03,255813,15,0.409,0.000899,0.409,0.849,5.58e-05,0.352,-4.454,0.078,133.942,4
+274,Sleep Alone - Beni Remix,Sleep Alone,Two Door Cinema Club,2012-09-03,328685,3,0.803,0.000236,0.803,0.798,0.808,0.0375,-6.708,0.0536,129.0,4
+275,Sleep Alone - Matt Bishop Remix,Sleep Alone,Two Door Cinema Club,2012-09-03,319193,4,0.597,0.00739,0.597,0.804,0.00215,0.224,-6.77,0.0536,130.965,4
+276,Something Good Can Work - RAC Remix,Something Good Can Work (Remixes),Two Door Cinema Club,2011-05-09,223190,32,0.575,0.213,0.575,0.904,0.00175,0.123,-4.424,0.0408,119.815,3
+277,Something Good Can Work - Housse De Racket Remix,Something Good Can Work (Remixes),Two Door Cinema Club,2011-05-09,285594,4,0.654,0.000889,0.654,0.693,0.198,0.584,-5.857,0.0366,119.889,4
+278,Something Good Can Work - Mitzi Remix,Something Good Can Work (Remixes),Two Door Cinema Club,2011-05-09,316004,5,0.722,0.0051,0.722,0.793,0.654,0.0643,-6.256,0.0547,122.968,4
+279,Something Good Can Work - Jungle Fiction Remix,Something Good Can Work (Remixes),Two Door Cinema Club,2011-05-09,227964,5,0.431,0.000722,0.431,0.915,0.00637,0.162,-3.76,0.119,120.036,4
+280,Come Back Home,Come Back Home,Two Door Cinema Club,2010-07-12,204080,9,0.602,0.0011,0.602,0.886,0.0227,0.381,-5.193,0.055,124.915,4
+281,Come Back Home - Myd Remix,Come Back Home,Two Door Cinema Club,2010-07-12,306502,2,0.527,0.0128,0.527,0.754,1.06e-06,0.0816,-5.236,0.267,132.001,4
+282,Come Back Home - Keith & Supabeatz Remix,Come Back Home,Two Door Cinema Club,2010-07-12,330067,3,0.548,0.0225,0.548,0.891,0.443,0.619,-4.731,0.434,127.994,4
+283,Come Back Home - Live at the FM4 Birthday Festival,Come Back Home,Two Door Cinema Club,2010-07-12,207155,3,0.569,0.337,0.569,0.935,0.000265,0.879,-3.785,0.0525,124.985,4
+284,Something Good Can Work,Something Good Can Work,Two Door Cinema Club,2010-05-03,164200,18,0.644,0.00539,0.644,0.838,0.000752,0.172,-5.09,0.0335,119.925,4
+285,Something Good Can Work - The Twelves remix,Something Good Can Work,Two Door Cinema Club,2010-05-03,249280,3,0.662,0.00789,0.662,0.904,0.413,0.0525,-6.055,0.0359,119.936,4
+286,Something Good Can Work - Crookers dirrrrrty mix,Something Good Can Work,Two Door Cinema Club,2010-05-03,270551,0,0.792,0.0173,0.792,0.754,0.00141,0.0816,-6.429,0.195,128.05,4
+287,Something Good Can Work - Beataucue remix,Something Good Can Work,Two Door Cinema Club,2010-05-03,203586,1,0.68,0.00379,0.68,0.832,0.00371,0.512,-4.826,0.0485,119.921,4
+288,Something Good Can Work - Ted & Francis remix,Something Good Can Work,Two Door Cinema Club,2010-05-03,332460,0,0.795,0.00411,0.795,0.544,0.246,0.124,-4.844,0.0739,125.997,4
+289,Something Good Can Work - Blamma! Blamma! remix,Something Good Can Work,Two Door Cinema Club,2010-05-03,466111,0,0.514,0.0169,0.514,0.966,0.749,0.3,-3.895,0.0326,126.978,4
+290,Undercover Martyn,Undercover Martyn,Two Door Cinema Club,2010-02-22,168120,15,0.458,0.00027,0.458,0.872,1.22e-05,0.0904,-4.867,0.121,159.819,4
+291,Undercover Martyn - Passion Pit Remix,Undercover Martyn,Two Door Cinema Club,2010-02-22,240786,12,0.585,0.0016,0.585,0.933,2.53e-05,0.0611,-4.425,0.0647,159.953,4
+292,Undercover Martyn - Jupiter Remix,Undercover Martyn,Two Door Cinema Club,2010-02-22,222773,4,0.863,0.153,0.863,0.499,0.0,0.11,-4.962,0.436,130.001,4
+293,Undercover Martyn - Softwar Remix,Undercover Martyn,Two Door Cinema Club,2010-02-22,397413,3,0.706,0.165,0.706,0.761,0.127,0.117,-5.928,0.0402,121.007,4
+294,Undercover Martyn - Whatever / Whatever Remix,Undercover Martyn,Two Door Cinema Club,2010-02-22,506906,2,0.778,1.13e-05,0.778,0.916,0.154,0.079,-4.672,0.0535,122.996,4
+295,Undercover Martyn - Telonius Remix,Undercover Martyn,Two Door Cinema Club,2010-02-22,304920,3,0.851,0.0217,0.851,0.92,0.766,0.037,-3.878,0.0698,126.976,4
+296,I Can Talk,I Can Talk,Two Door Cinema Club,2009-11-23,177520,17,0.475,3.01e-05,0.475,0.771,0.253,0.26,-4.842,0.293,163.067,4
+297,Costume Party,I Can Talk,Two Door Cinema Club,2009-11-23,207466,30,0.614,0.0354,0.614,0.863,0.000676,0.08,-3.222,0.0283,142.997,4
+298,I Can Talk,Kitsuné: I Can Talk Remixes - EP,Two Door Cinema Club,2009,177470,16,0.472,2.95e-05,0.472,0.742,0.148,0.176,-4.874,0.202,162.96,4
+299,I Can Talk - French Horn Rebellion Remix,Kitsuné: I Can Talk Remixes - EP,Two Door Cinema Club,2009,262238,9,0.696,0.00483,0.696,0.766,0.597,0.0444,-5.453,0.0596,128.492,4
+300,I Can Talk - Crystal Fighters Remix,Kitsuné: I Can Talk Remixes - EP,Two Door Cinema Club,2009,238870,8,0.395,0.0588,0.395,0.852,0.012,0.111,-5.079,0.0418,129.965,4
+301,I Can Talk - Moulinex Remix,Kitsuné: I Can Talk Remixes - EP,Two Door Cinema Club,2009,305083,12,0.778,0.00668,0.778,0.858,0.185,0.0834,-5.756,0.0493,123.956,4
+302,I Can Talk - Golden Bug Remix,Kitsuné: I Can Talk Remixes - EP,Two Door Cinema Club,2009,359923,6,0.812,0.175,0.812,0.87,0.592,0.0464,-8.525,0.0668,119.986,4
