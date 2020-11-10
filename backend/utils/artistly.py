@@ -90,7 +90,7 @@ def get_discography_data(artist):
     """
     albums = []
     sp = get_client()
-    results = sp.artist_albums(artist['id'], album_type='album')
+    results = sp.artist_albums(artist['id'], album_type='album,single')
     albums.extend(results['items'])
     while results['next']:
         results = sp.next(results)
@@ -141,5 +141,5 @@ def main(artist):
     get_discography_data(artist)
 
 if __name__ == "__main__":
-    get_user_top_tracks_data()
-    # main("Tobi Lou")
+    # get_user_top_tracks_data()
+    main("Tobi Lou")
