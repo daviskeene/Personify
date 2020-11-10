@@ -1,0 +1,11 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,False Direction,Fuzzybrain,Dayglow,2019-11-14,277200,58,0.68,0.0304,0.68,0.584,0.000945,0.106,-10.459,0.0617,149.976,4
+1,Can I Call You Tonight?,Fuzzybrain,Dayglow,2019-11-14,278769,81,0.641,0.132,0.641,0.842,0.91,0.419,-7.27,0.0292,129.98,4
+2,Hot Rod,Fuzzybrain,Dayglow,2019-11-14,204014,75,0.707,0.0279,0.707,0.767,0.000295,0.169,-7.072,0.0323,139.985,4
+3,Run the World!!!,Fuzzybrain,Dayglow,2019-11-14,176250,60,0.706,0.158,0.706,0.631,0.000607,0.0374,-7.711,0.0553,160.064,4
+4,Fair Game,Fuzzybrain,Dayglow,2019-11-14,262500,55,0.772,0.0505,0.772,0.7,0.0515,0.147,-7.699,0.0454,127.99,4
+5,"Dear Friend,",Fuzzybrain,Dayglow,2019-11-14,142124,52,0.436,0.948,0.436,0.381,0.0176,0.113,-10.92,0.0425,88.16,4
+6,Fuzzybrain,Fuzzybrain,Dayglow,2019-11-14,219428,60,0.488,0.0233,0.488,0.51,0.15,0.143,-8.367,0.026,104.959,4
+7,Junior Varsity,Fuzzybrain,Dayglow,2019-11-14,252400,52,0.263,0.0835,0.263,0.521,0.0474,0.0891,-8.022,0.0465,74.983,4
+8,Nicknames,Fuzzybrain,Dayglow,2019-11-14,203727,56,0.752,0.0681,0.752,0.531,0.0048,0.293,-12.875,0.0369,110.018,4
+9,Listerine,Fuzzybrain,Dayglow,2019-11-14,215555,65,0.694,0.168,0.694,0.583,0.819,0.329,-11.549,0.0371,134.999,4

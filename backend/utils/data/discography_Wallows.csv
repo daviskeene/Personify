@@ -1,0 +1,49 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Only Friend,Nothing Happens,Wallows,2019-03-22,181600,60,0.295,1.51e-05,0.295,0.835,0.913,0.342,-5.184,0.0413,153.914,4
+1,Treacherous Doctor,Nothing Happens,Wallows,2019-03-22,163480,59,0.459,0.00193,0.459,0.861,0.00249,0.474,-6.186,0.0603,160.039,4
+2,Sidelines,Nothing Happens,Wallows,2019-03-22,180586,58,0.639,0.00211,0.639,0.655,0.000247,0.445,-6.0,0.0299,105.024,4
+3,Are You Bored Yet? (feat. Clairo),Nothing Happens,Wallows,2019-03-22,178000,85,0.682,0.156,0.682,0.683,2.32e-05,0.273,-6.444,0.0287,120.023,4
+4,Scrawny,Nothing Happens,Wallows,2019-03-22,166520,73,0.639,0.000985,0.639,0.816,0.0604,0.141,-5.28,0.0485,138.008,4
+5,Ice Cold Pool,Nothing Happens,Wallows,2019-03-22,237653,56,0.572,0.00817,0.572,0.662,0.0,0.159,-6.041,0.0316,103.025,4
+6,Worlds Apart,Nothing Happens,Wallows,2019-03-22,254453,53,0.314,0.0154,0.314,0.755,0.0387,0.492,-6.613,0.0457,169.946,4
+7,What You Like,Nothing Happens,Wallows,2019-03-22,201240,54,0.721,0.0014,0.721,0.398,0.0,0.101,-6.603,0.0375,105.998,4
+8,Remember When,Nothing Happens,Wallows,2019-03-22,155146,69,0.504,0.00112,0.504,0.708,0.000424,0.788,-5.896,0.0343,82.009,4
+9,I'm Full,Nothing Happens,Wallows,2019-03-22,222026,55,0.457,0.00537,0.457,0.84,0.00246,0.472,-7.075,0.0737,159.987,4
+10,Do Not Wait,Nothing Happens,Wallows,2019-03-22,390880,57,0.23,0.0305,0.23,0.473,0.0133,0.161,-9.583,0.0303,99.832,4
+11,Virtual Aerobics,Remote,Wallows,2020-10-23,122333,58,0.775,0.183,0.775,0.55,0.0,0.0434,-3.765,0.0345,109.952,4
+12,Dig What You Dug,Remote,Wallows,2020-10-23,177560,60,0.615,0.00827,0.615,0.75,0.000549,0.163,-4.281,0.0822,120.993,4
+13,Nobody Gets Me (Like You),Remote,Wallows,2020-10-23,157613,56,0.57,0.0365,0.57,0.887,5.21e-06,0.783,-1.089,0.0382,115.889,4
+14,Coastlines,Remote,Wallows,2020-10-23,189053,59,0.553,0.00222,0.553,0.681,0.0,0.322,-4.781,0.0312,132.025,4
+15,Talk Like That,Remote,Wallows,2020-10-23,120733,59,0.684,0.0234,0.684,0.825,0.0,0.496,-2.722,0.0881,137.995,4
+16,Wish Me Luck,Remote,Wallows,2020-10-23,225640,63,0.555,0.0572,0.555,0.715,0.0,0.348,-4.853,0.037,141.952,4
+17,Virtual Aerobics,Virtual Aerobics,Wallows,2020-10-02,122333,66,0.775,0.183,0.775,0.55,0.0,0.0434,-3.765,0.0345,109.952,4
+18,Nobody Gets Me (Like You),Virtual Aerobics,Wallows,2020-10-02,157613,51,0.57,0.0365,0.57,0.887,5.21e-06,0.783,-1.089,0.0382,115.889,4
+19,Nobody Gets Me (Like You),Nobody Gets Me (Like You),Wallows,2020-09-09,157613,63,0.57,0.0365,0.57,0.887,5.21e-06,0.783,-1.089,0.0382,115.889,4
+20,Are You Bored Yet? (feat. Clairo) - Mura Masa Remix,Are You Bored Yet? (feat. Clairo) [Mura Masa Remix],Wallows,2020-08-28,196173,55,0.697,0.421,0.697,0.542,0.00147,0.117,-12.497,0.031,114.994,4
+21,Are You Bored Yet? (feat. Clairo),Are You Bored Yet? (feat. Clairo) [Mura Masa Remix],Wallows,2020-08-28,178000,40,0.681,0.158,0.681,0.683,2.32e-05,0.273,-6.444,0.0287,120.027,4
+22,With A Little Help From My Friends,With A Little Help From My Friends,Wallows,2020-05-22,170030,57,0.674,0.0947,0.674,0.875,0.0,0.0907,-4.898,0.0283,108.014,4
+23,OK,OK,Wallows,2020-03-20,193293,73,0.72,0.0112,0.72,0.625,0.0076,0.0999,-6.274,0.0362,102.006,4
+24,Are You Bored Yet? - Live from Henson Studios,Live from Henson Studios,Wallows,2019-11-08,178973,55,0.631,0.12,0.631,0.729,1.66e-06,0.0804,-7.239,0.03,120.038,4
+25,Treacherous Doctor - Live from Henson Studios,Live from Henson Studios,Wallows,2019-11-08,166106,44,0.56,0.638,0.56,0.922,6.33e-06,0.0743,-6.487,0.238,159.995,4
+26,Trust Fall,Trust Fall / Just Like A Movie,Wallows,2019-09-06,201053,52,0.499,0.00171,0.499,0.7,0.126,0.0649,-8.561,0.0322,173.985,4
+27,Just Like A Movie,Trust Fall / Just Like A Movie,Wallows,2019-09-06,247613,60,0.449,0.00121,0.449,0.825,0.0,0.208,-5.177,0.037,135.934,4
+28,Scrawny - Live from The Fonda Theatre,Scrawny (Live from The Fonda Theatre),Wallows,2019-07-24,186442,37,0.304,0.00676,0.304,0.908,0.314,0.969,-9.144,0.0862,147.369,4
+29,Scrawny,Scrawny (Live from The Fonda Theatre),Wallows,2019-07-24,166520,33,0.639,0.000985,0.639,0.816,0.0604,0.141,-5.28,0.0485,138.008,4
+30,Are You Bored Yet? (feat. Clairo) - Sachi of Joy Again Remix,Are You Bored Yet? (feat. Clairo) [Remixes],Wallows,2019-06-14,155432,35,0.692,0.284,0.692,0.732,0.168,0.077,-7.688,0.0398,144.973,4
+31,Are You Bored Yet? (feat. Clairo) - Big Data Remix,Are You Bored Yet? (feat. Clairo) [Remixes],Wallows,2019-06-14,164000,45,0.752,0.0175,0.752,0.537,0.00284,0.0973,-7.008,0.0371,119.982,4
+32,Are You Bored Yet? (feat. Clairo) - Radio Edit,Are You Bored Yet? (feat. Clairo) [Remixes],Wallows,2019-06-14,171982,37,0.694,0.153,0.694,0.707,1.57e-05,0.154,-6.271,0.029,120.059,4
+33,Scrawny,Scrawny / Are You Bored Yet?,Wallows,2019-02-18,166520,36,0.639,0.000985,0.639,0.816,0.0604,0.141,-5.28,0.0485,138.008,4
+34,Are You Bored Yet? (feat. Clairo),Scrawny / Are You Bored Yet?,Wallows,2019-02-18,178000,50,0.682,0.156,0.682,0.683,2.32e-05,0.273,-6.444,0.0287,120.023,4
+35,Drunk on Halloween,Drunk on Halloween,Wallows,2018-10-12,237026,64,0.631,0.231,0.631,0.634,1.3e-05,0.0924,-4.456,0.0247,100.967,4
+36,1980s Horror Film II,1980s Horror Film II,Wallows,2018-10-11,235272,65,0.593,0.0038,0.593,0.658,0.0126,0.0804,-4.957,0.0304,116.021,4
+37,Underneath the Streetlights in the Winter Outside Your House,Underneath the Streetlights in the Winter Outside Your House,Wallows,2018-07-27,70805,46,0.37,0.00141,0.37,0.659,0.875,0.68,-4.981,0.0534,130.157,4
+38,Ground,Spring EP,Wallows,2018-04-06,214386,55,0.417,0.00329,0.417,0.669,0.000169,0.0403,-5.544,0.0296,76.988,4
+39,It's Only Right,Spring EP,Wallows,2018-04-06,274520,57,0.447,0.00222,0.447,0.663,0.00275,0.127,-7.399,0.033,153.87,4
+40,Let The Sun In,Spring EP,Wallows,2018-04-06,223053,54,0.32,0.00141,0.32,0.663,6.7e-05,0.0968,-5.802,0.0291,189.891,4
+41,These Days,Spring EP,Wallows,2018-04-06,202626,72,0.655,0.0398,0.655,0.668,0.0302,0.0759,-6.733,0.0272,93.003,4
+42,1980s Horror Film,Spring EP,Wallows,2018-04-06,224226,56,0.477,0.643,0.477,0.242,0.00491,0.131,-12.065,0.0318,119.247,4
+43,Pictures of Girls,Spring EP,Wallows,2018-04-06,204666,64,0.443,0.000248,0.443,0.819,0.00759,0.0802,-5.502,0.0322,154.958,4
+44,Pulling Leaves off Trees,Pulling Leaves off Trees,Wallows,2017-11-16,230481,54,0.376,0.000848,0.376,0.937,0.0,0.14,-2.653,0.0757,154.014,4
+45,Uncomfortable,Uncomfortable,Wallows,2017-09-13,294015,62,0.395,0.115,0.395,0.768,0.0204,0.286,-2.81,0.0311,142.016,4
+46,Sun Tan,Sun Tan,Wallows,2017-05-22,226925,54,0.465,0.0311,0.465,0.905,0.00424,0.361,-4.422,0.0339,108.922,4
+47,Pleaser,Pleaser,Wallows,2017-04-12,187895,72,0.497,0.126,0.497,0.914,1.98e-05,0.274,-4.308,0.0455,148.893,4

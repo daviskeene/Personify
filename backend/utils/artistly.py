@@ -106,7 +106,7 @@ def get_discography_data(artist):
             tracks.extend(get_album_track_features(album))
     # create dataset
     df = pd.DataFrame(tracks, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'time_signature'])
-    df.to_csv(f"discography_{artist['name']}.csv", sep = ',')
+    df.to_csv(f"data/discography_{artist['name']}.csv", sep = ',')
     return df
 
 
@@ -133,7 +133,7 @@ def get_user_top_tracks_data():
             features.append(get_track_features(id))
 
         df = pd.DataFrame(features, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'time_signature'])
-        df.to_csv(f"user_daviskeene_{r}.csv", sep = ',')
+        df.to_csv(f"data/user_daviskeene_{r}.csv", sep = ',')
     
 
 def main(artist):
@@ -142,4 +142,4 @@ def main(artist):
 
 if __name__ == "__main__":
     # get_user_top_tracks_data()
-    main("Clairo")
+    main("Wallows")

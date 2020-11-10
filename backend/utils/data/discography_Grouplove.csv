@@ -1,0 +1,166 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Deleter,Healer,Grouplove,2020-03-13,234386,61,0.421,3.81e-06,0.421,0.991,0.0466,0.13,-3.678,0.124,159.998,4
+1,Inside Out,Healer,Grouplove,2020-03-13,208000,51,0.578,0.254,0.578,0.856,0.0,0.37,-5.852,0.247,112.076,4
+2,Expectations,Healer,Grouplove,2020-03-13,313666,36,0.718,0.000928,0.718,0.807,3.98e-05,0.186,-5.318,0.0376,117.015,4
+3,The Great Unknown,Healer,Grouplove,2020-03-13,237346,36,0.594,0.0088,0.594,0.594,0.0,0.201,-6.279,0.0356,100.027,4
+4,Youth,Healer,Grouplove,2020-03-13,287840,41,0.709,0.0377,0.709,0.766,0.22,0.114,-6.039,0.0294,119.989,4
+5,Places,Healer,Grouplove,2020-03-13,198320,35,0.193,0.568,0.193,0.263,1.18e-05,0.11,-10.152,0.0308,79.714,3
+6,Promises,Healer,Grouplove,2020-03-13,258226,31,0.632,0.00549,0.632,0.665,0.0,0.364,-6.572,0.033,114.017,4
+7,Ahead of Myself,Healer,Grouplove,2020-03-13,229586,35,0.722,0.178,0.722,0.663,0.0,0.106,-6.124,0.0795,94.988,4
+8,Hail to the Queen,Healer,Grouplove,2020-03-13,255800,33,0.587,0.000536,0.587,0.856,0.00012,0.107,-5.544,0.0347,140.018,4
+9,Burial,Healer,Grouplove,2020-03-13,242600,30,0.329,0.0656,0.329,0.642,0.000358,0.083,-6.486,0.0715,125.312,3
+10,This is Everything,Healer,Grouplove,2020-03-13,248266,32,0.499,0.15,0.499,0.625,2.53e-05,0.106,-7.547,0.0477,112.943,4
+11,Remember That Night,Big Mess,Grouplove,2017-08-17,183405,43,0.412,0.00685,0.412,0.918,0.0,0.0958,-3.525,0.285,112.228,4
+12,Welcome to Your Life,Big Mess,Grouplove,2017-08-17,227800,53,0.511,0.00223,0.511,0.617,0.0,0.201,-5.883,0.0313,90.951,4
+13,Do You Love Someone,Big Mess,Grouplove,2017-08-17,231360,45,0.521,0.000785,0.521,0.879,0.0,0.666,-4.255,0.0566,129.056,4
+14,Standing in the Sun,Big Mess,Grouplove,2017-08-17,255893,41,0.475,0.00317,0.475,0.594,6.84e-06,0.0752,-7.331,0.0292,180.277,4
+15,Enlighten Me,Big Mess,Grouplove,2017-08-17,232946,36,0.304,0.0426,0.304,0.749,7.69e-05,0.129,-7.277,0.0549,93.189,4
+16,Good Morning,Big Mess,Grouplove,2017-08-17,219560,50,0.562,0.000938,0.562,0.832,2.83e-06,0.063,-5.26,0.0499,104.042,4
+17,Spinning,Big Mess,Grouplove,2017-08-17,242066,35,0.646,0.0183,0.646,0.6,0.000374,0.0831,-5.673,0.0279,110.81,4
+18,Cannonball,Big Mess,Grouplove,2017-08-17,197693,31,0.685,0.000539,0.685,0.684,0.0973,0.172,-7.597,0.0857,146.011,4
+19,Traumatized,Big Mess,Grouplove,2017-08-17,179786,36,0.444,0.0111,0.444,0.856,0.00031,0.357,-3.662,0.054,133.988,4
+20,Heart of Mine,Big Mess,Grouplove,2017-08-17,196053,29,0.331,0.00178,0.331,0.823,8.89e-05,0.0999,-2.863,0.0479,151.05,3
+21,Don't Stop Making It Happen,Big Mess,Grouplove,2017-08-17,181093,43,0.647,0.0165,0.647,0.661,0.0,0.0549,-5.961,0.0316,98.042,4
+22,Hollywood,Big Mess,Grouplove,2017-08-17,250666,37,0.546,0.289,0.546,0.426,0.0,0.0866,-6.713,0.032,144.697,4
+23,I'm with You,Spreading Rumours,Grouplove,2013-09-17,334160,45,0.499,0.414,0.499,0.809,0.215,0.445,-7.508,0.0748,139.961,4
+24,Borderlines and Aliens,Spreading Rumours,Grouplove,2013-09-17,230373,36,0.407,0.000809,0.407,0.93,1.43e-05,0.248,-6.298,0.0977,102.57,4
+25,Schoolboy,Spreading Rumours,Grouplove,2013-09-17,232120,36,0.558,0.048,0.558,0.846,1.37e-06,0.27,-6.799,0.0635,111.003,4
+26,Ways to Go,Spreading Rumours,Grouplove,2013-09-17,215520,65,0.577,0.00338,0.577,0.827,0.000647,0.26,-7.54,0.0365,101.031,4
+27,Shark Attack,Spreading Rumours,Grouplove,2013-09-17,238626,39,0.449,0.000264,0.449,0.635,4.65e-05,0.332,-7.557,0.0397,166.04,4
+28,Sit Still,Spreading Rumours,Grouplove,2013-09-17,244813,32,0.648,0.0424,0.648,0.851,1.15e-05,0.24,-6.695,0.0354,92.937,4
+29,Hippy Hill,Spreading Rumours,Grouplove,2013-09-17,175986,42,0.524,0.104,0.524,0.556,1.03e-06,0.131,-9.537,0.0392,133.822,4
+30,What I Know,Spreading Rumours,Grouplove,2013-09-17,234520,32,0.498,0.00193,0.498,0.777,0.0,0.254,-6.904,0.0424,89.967,4
+31,Didn't Have to Go,Spreading Rumours,Grouplove,2013-09-17,224680,30,0.472,0.0387,0.472,0.861,2.09e-05,0.126,-6.61,0.0648,79.941,4
+32,Bitin' the Bullet,Spreading Rumours,Grouplove,2013-09-17,248706,29,0.566,0.0335,0.566,0.742,0.00581,0.362,-6.255,0.0333,81.996,4
+33,News to Me,Spreading Rumours,Grouplove,2013-09-17,226106,28,0.2,0.00584,0.2,0.847,0.0,0.0952,-6.505,0.0548,182.766,4
+34,Raspberry,Spreading Rumours,Grouplove,2013-09-17,196026,64,0.492,0.0292,0.492,0.779,0.0,0.129,-5.022,0.0498,104.966,4
+35,Save the Party for Me,Spreading Rumours,Grouplove,2013-09-17,208413,27,0.502,0.768,0.502,0.301,0.000684,0.114,-8.293,0.0298,139.81,3
+36,I'm with You,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,334160,24,0.499,0.414,0.499,0.809,0.215,0.445,-7.508,0.0748,139.961,4
+37,Borderlines and Aliens,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,230373,20,0.407,0.000809,0.407,0.93,1.43e-05,0.248,-6.298,0.0977,102.57,4
+38,Schoolboy,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,232120,15,0.558,0.048,0.558,0.846,1.37e-06,0.27,-6.799,0.0635,111.003,4
+39,Ways to Go,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,215520,43,0.577,0.00338,0.577,0.827,0.000647,0.26,-7.54,0.0365,101.031,4
+40,Shark Attack,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,238626,26,0.449,0.000264,0.449,0.635,4.65e-05,0.332,-7.557,0.0397,166.04,4
+41,Sit Still,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,244813,11,0.648,0.0424,0.648,0.851,1.15e-05,0.24,-6.695,0.0354,92.937,4
+42,Hippy Hill,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,175986,17,0.524,0.104,0.524,0.556,1.03e-06,0.131,-9.537,0.0392,133.822,4
+43,What I Know,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,234520,11,0.498,0.00193,0.498,0.777,0.0,0.254,-6.904,0.0424,89.967,4
+44,Didn't Have to Go,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,224680,11,0.472,0.0387,0.472,0.861,2.09e-05,0.126,-6.61,0.0648,79.941,4
+45,Bitin' the Bullet,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,248706,9,0.566,0.0335,0.566,0.742,0.00581,0.362,-6.255,0.0333,81.996,4
+46,News to Me,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,226106,8,0.2,0.00584,0.2,0.847,0.0,0.0952,-6.505,0.0548,182.766,4
+47,Raspberry,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,196026,40,0.492,0.0292,0.492,0.779,0.0,0.129,-5.022,0.0498,104.966,4
+48,Save the Party for Me,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,208413,8,0.502,0.768,0.502,0.301,0.000684,0.114,-8.293,0.0298,139.81,3
+49,Girl - Bonus Track,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,257845,10,0.402,0.48,0.402,0.64,0.143,0.0741,-7.926,0.0327,71.982,4
+50,Flowers - Bonus Track,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,254029,11,0.31,0.000649,0.31,0.923,0.0,0.355,-4.389,0.164,206.011,4
+51,Beans on Pizza,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,169521,10,0.604,0.0211,0.604,0.387,0.0,0.149,-7.54,0.0324,139.917,4
+52,Ways to Go - Everything Everything Remix,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,286272,6,0.597,0.0151,0.597,0.916,0.000283,0.173,-4.628,0.0366,113.023,4
+53,Ways to Go - Thom alt-J Remix,Spreading Rumours (Deluxe Version),Grouplove,2013-09-17,208968,5,0.546,0.24,0.546,0.714,0.00905,0.153,-6.866,0.0753,144.998,4
+54,I'm with You,Spreading Rumours (Deluxe),Grouplove,2013-09-17,334160,38,0.499,0.414,0.499,0.809,0.215,0.445,-7.508,0.0748,139.961,4
+55,Borderlines and Aliens,Spreading Rumours (Deluxe),Grouplove,2013-09-17,230373,26,0.407,0.000809,0.407,0.93,1.43e-05,0.248,-6.298,0.0977,102.57,4
+56,Schoolboy,Spreading Rumours (Deluxe),Grouplove,2013-09-17,232120,25,0.558,0.048,0.558,0.846,1.37e-06,0.27,-6.799,0.0635,111.003,4
+57,Ways to Go,Spreading Rumours (Deluxe),Grouplove,2013-09-17,215520,33,0.577,0.00338,0.577,0.827,0.000647,0.26,-7.54,0.0365,101.031,4
+58,Shark Attack,Spreading Rumours (Deluxe),Grouplove,2013-09-17,238626,46,0.449,0.000264,0.449,0.635,4.65e-05,0.332,-7.557,0.0397,166.04,4
+59,Sit Still,Spreading Rumours (Deluxe),Grouplove,2013-09-17,244813,24,0.648,0.0424,0.648,0.851,1.15e-05,0.24,-6.695,0.0354,92.937,4
+60,Hippy Hill,Spreading Rumours (Deluxe),Grouplove,2013-09-17,175986,25,0.524,0.104,0.524,0.556,1.03e-06,0.131,-9.537,0.0392,133.822,4
+61,What I Know,Spreading Rumours (Deluxe),Grouplove,2013-09-17,234520,24,0.498,0.00193,0.498,0.777,0.0,0.254,-6.904,0.0424,89.967,4
+62,Didn't Have to Go,Spreading Rumours (Deluxe),Grouplove,2013-09-17,224680,23,0.472,0.0387,0.472,0.861,2.09e-05,0.126,-6.61,0.0648,79.941,4
+63,Bitin' the Bullet,Spreading Rumours (Deluxe),Grouplove,2013-09-17,248706,23,0.566,0.0335,0.566,0.742,0.00581,0.362,-6.255,0.0333,81.996,4
+64,News to Me,Spreading Rumours (Deluxe),Grouplove,2013-09-17,226106,22,0.2,0.00584,0.2,0.847,0.0,0.0952,-6.505,0.0548,182.766,4
+65,Raspberry,Spreading Rumours (Deluxe),Grouplove,2013-09-17,196026,27,0.492,0.0292,0.492,0.779,0.0,0.129,-5.022,0.0498,104.966,4
+66,Save the Party for Me,Spreading Rumours (Deluxe),Grouplove,2013-09-17,208413,21,0.502,0.768,0.502,0.301,0.000684,0.114,-8.293,0.0298,139.81,3
+67,Girl - Bonus Track,Spreading Rumours (Deluxe),Grouplove,2013-09-17,257845,28,0.402,0.48,0.402,0.64,0.143,0.0741,-7.926,0.0327,71.982,4
+68,Flowers - Bonus Track,Spreading Rumours (Deluxe),Grouplove,2013-09-17,254029,29,0.31,0.000649,0.31,0.923,0.0,0.355,-4.389,0.164,206.011,4
+69,Beans on Pizza,Spreading Rumours (Deluxe),Grouplove,2013-09-17,169521,28,0.604,0.0211,0.604,0.387,0.0,0.149,-7.54,0.0324,139.917,4
+70,Itchin' on a Photograph,Never Trust a Happy Song,Grouplove,2011-09-13,259506,16,0.501,0.137,0.501,0.877,0.0,0.309,-6.369,0.0484,96.993,4
+71,Tongue Tied,Never Trust a Happy Song,Grouplove,2011-09-13,218013,48,0.56,0.00847,0.56,0.936,0.0,0.161,-5.835,0.0439,112.96,4
+72,Lovely Cup,Never Trust a Happy Song,Grouplove,2011-09-13,257773,8,0.536,0.00316,0.536,0.853,0.0,0.0951,-5.131,0.0419,101.0,4
+73,Colours,Never Trust a Happy Song,Grouplove,2011-09-13,257786,22,0.529,0.0211,0.529,0.83,0.0,0.0983,-5.428,0.0397,93.933,4
+74,Slow,Never Trust a Happy Song,Grouplove,2011-09-13,218426,18,0.294,0.0377,0.294,0.797,0.0296,0.713,-7.32,0.0585,139.561,4
+75,Naked Kids,Never Trust a Happy Song,Grouplove,2011-09-13,210426,9,0.588,0.122,0.588,0.598,0.0,0.117,-8.061,0.0361,105.024,4
+76,Spun,Never Trust a Happy Song,Grouplove,2011-09-13,205613,5,0.424,0.00262,0.424,0.851,2.21e-05,0.232,-6.143,0.0385,155.018,4
+77,Betty's a Bombshell,Never Trust a Happy Song,Grouplove,2011-09-13,214546,4,0.434,0.0144,0.434,0.577,0.0,0.0886,-6.321,0.0311,145.047,4
+78,Chloe,Never Trust a Happy Song,Grouplove,2011-09-13,198386,5,0.388,0.00125,0.388,0.852,3.56e-06,0.32,-6.19,0.103,187.127,4
+79,Love Will Save Your Soul,Never Trust a Happy Song,Grouplove,2011-09-13,227506,5,0.396,0.0206,0.396,0.79,0.00042,0.107,-6.304,0.0343,116.674,4
+80,Cruel and Beautiful World,Never Trust a Happy Song,Grouplove,2011-09-13,243240,7,0.479,0.253,0.479,0.457,0.0,0.105,-6.224,0.0277,129.766,3
+81,Close Your Eyes and Count to Ten,Never Trust a Happy Song,Grouplove,2011-09-13,288506,5,0.406,0.0062,0.406,0.758,0.0,0.0904,-6.451,0.0366,90.926,4
+82,Je Pense Toujours a Toi,Never Trust a Happy Song,Grouplove,2011-09-13,142024,4,0.473,0.937,0.473,0.419,0.0809,0.141,-10.23,0.0312,100.732,4
+83,A Grouplove Christmas,A Grouplove Christmas,Grouplove,2020-10-30,207732,33,0.54,0.893,0.54,0.377,0.00246,0.124,-7.549,0.0269,129.06,4
+84,Broken Angel,Broken Angel,Grouplove,2020-10-16,372280,50,0.511,0.354,0.511,0.334,1.93e-05,0.195,-7.34,0.0293,121.506,4
+85,Trip on Me,Broken Angel,Grouplove,2020-10-16,229920,43,0.478,0.11,0.478,0.761,0.0608,0.111,-6.648,0.0427,163.864,4
+86,Inside Out - Austin Millz Remix,Inside Out (Austin Millz Remix),Grouplove,2020-08-28,208253,36,0.656,0.184,0.656,0.739,2.03e-05,0.145,-7.456,0.161,118.015,4
+87,Inside Out,Inside Out (Austin Millz Remix),Grouplove,2020-08-28,208000,23,0.578,0.254,0.578,0.856,0.0,0.37,-5.852,0.247,112.073,4
+88,Inside Out - DvDx Remix,Inside Out (DvDx Remix),Grouplove,2020-08-14,172146,34,0.703,0.0563,0.703,0.674,1.37e-06,0.226,-7.864,0.118,140.017,4
+89,Inside Out,Inside Out (DvDx Remix),Grouplove,2020-08-14,208000,20,0.578,0.254,0.578,0.856,0.0,0.37,-5.852,0.247,112.073,4
+90,Inside Out (Yuno Remix),Inside Out (Yuno Remix),Grouplove,2020-08-07,237770,35,0.494,0.0063,0.494,0.524,0.00724,0.311,-8.884,0.0437,104.017,4
+91,Inside Out,Inside Out (Yuno Remix),Grouplove,2020-08-07,208000,24,0.578,0.254,0.578,0.856,0.0,0.37,-5.852,0.247,112.073,4
+92,Dancing On My Own,Dancing On My Own,Grouplove,2020-06-25,197967,44,0.55,0.00014,0.55,0.821,0.0111,0.164,-8.113,0.0312,119.076,4
+93,Inside Out,Dancing On My Own,Grouplove,2020-06-25,208000,24,0.578,0.254,0.578,0.856,0.0,0.37,-5.852,0.247,112.073,4
+94,Deleter - ayokay Remix,Deleter (ayokay Remix),Grouplove,2020-04-24,206133,38,0.573,0.0712,0.573,0.681,2.4e-06,0.151,-6.602,0.047,160.012,4
+95,Deleter,Deleter (ayokay Remix),Grouplove,2020-04-24,234386,18,0.421,3.81e-06,0.421,0.991,0.0468,0.13,-3.678,0.124,159.998,4
+96,Deleter - Acoustic Version,Deleter (Acoustic Version),Grouplove,2020-04-03,217960,30,0.53,0.321,0.53,0.424,0.0,0.0991,-6.381,0.0286,78.092,4
+97,Deleter,Deleter (Acoustic Version),Grouplove,2020-04-03,234386,18,0.421,3.81e-06,0.421,0.991,0.0466,0.13,-3.678,0.124,159.998,4
+98,Inside Out,Inside Out,Grouplove,2020-03-09,208000,39,0.578,0.254,0.578,0.856,0.0,0.37,-5.852,0.247,112.076,4
+99,Deleter,Inside Out,Grouplove,2020-03-09,234386,16,0.421,3.81e-06,0.421,0.991,0.0466,0.13,-3.678,0.124,159.998,4
+100,Upside Down (feat. Grouplove),Upside Down (feat. Grouplove),Whethan,2020-02-28,216045,56,0.51,0.00964,0.51,0.748,0.00163,0.161,-5.955,0.0776,164.982,3
+101,Deleter - DJDS Remix,Deleter (DJDS Remix),Grouplove,2020-02-07,194453,25,0.379,0.0127,0.379,0.577,5.41e-05,0.239,-7.231,0.0484,91.007,4
+102,Deleter,Deleter (DJDS Remix),Grouplove,2020-02-07,234386,22,0.421,3.81e-06,0.421,0.991,0.0466,0.13,-3.678,0.124,159.998,4
+103,Remember That Night - Eden Prince Remix,Remember That Night (Eden Prince Remix),Grouplove,2017-12-01,210010,15,0.793,0.02,0.793,0.657,0.000992,0.0483,-5.847,0.107,119.979,4
+104,Remember That Night,Remember That Night,Grouplove,2017-11-17,183405,20,0.412,0.00685,0.412,0.918,0.0,0.0958,-3.525,0.285,112.228,4
+105,Remember That Night - SAINT WKND Remix,Remember That Night (SAINT WKND Remix),Grouplove,2017-11-10,168750,25,0.68,0.055,0.68,0.711,0.0,0.737,-4.081,0.0382,123.965,4
+106,Good Morning - KXA Remix,Good Morning (KXA Remix),Grouplove,2017-05-12,248006,15,0.494,0.155,0.494,0.63,0.0,0.097,-5.729,0.04,89.885,4
+107,Tell Me a Story,Little Mess EP,Grouplove,2017-04-22,285866,36,0.344,0.0973,0.344,0.381,0.00446,0.0995,-9.051,0.0289,122.925,3
+108,Torso,Little Mess EP,Grouplove,2017-04-22,304400,41,0.563,0.144,0.563,0.602,0.000222,0.0613,-7.245,0.0323,113.261,4
+109,MRI,Little Mess EP,Grouplove,2017-04-22,228760,27,0.45,0.021,0.45,0.556,0.0671,0.106,-4.677,0.0309,142.051,4
+110,Enlighten Me - Live,Little Mess EP,Grouplove,2017-04-22,333813,17,0.321,0.483,0.321,0.527,0.0,0.747,-8.083,0.0399,80.58,4
+111,Adios Amigos,Little Mess EP,Grouplove,2017-04-22,222986,32,0.405,0.000881,0.405,0.826,3.86e-06,0.886,-5.151,0.0831,92.933,4
+112,Good Morning - PINES Remix,Good Morning (PINES Remix),Grouplove,2017-04-14,286360,39,0.253,0.0002,0.253,0.731,0.00217,0.251,-6.174,0.0602,99.641,4
+113,Good Morning - Acoustic,Good Morning (Acoustic),Grouplove,2017-03-31,180360,22,0.561,0.0069,0.561,0.632,0.0,0.0307,-5.591,0.0337,94.95,4
+114,Good Morning - MUNA Remix,Good Morning (MUNA Remix),Grouplove,2017-03-24,210285,10,0.458,0.0731,0.458,0.724,0.000376,0.104,-12.097,0.0771,104.859,4
+115,Good Morning - Tigertown Remix,Good Morning (Tigertown Remix),Grouplove,2017-03-03,204287,15,0.658,0.0142,0.658,0.881,0.00406,0.0683,-6.682,0.0558,104.023,4
+116,Good Morning - Madison Mars Remix,Good Morning (Madison Mars Remix),Grouplove,2017-02-03,209000,23,0.543,0.0114,0.543,0.84,0.0,0.0576,-3.144,0.0872,105.982,4
+117,Welcome to Your Life - Recorded at Spotify Studios NYC,Spotify Singles,Grouplove,2016-11-30,225090,26,0.52,0.0381,0.52,0.737,0.0,0.0681,-5.781,0.0437,183.503,4
+118,One More Cup of Coffee - Recorded at Spotify Studios NYC,Spotify Singles,Grouplove,2016-11-30,201851,40,0.543,0.0647,0.543,0.659,1.27e-06,0.0843,-6.074,0.0322,134.574,4
+119,Welcome to Your Life - Gigamesh Remix,Welcome to Your Life Remix EP,Grouplove,2016-11-04,231250,23,0.731,0.00709,0.731,0.737,0.052,0.0561,-5.057,0.0417,96.011,4
+120,Welcome to Your Life - Taylor Wise Remix,Welcome to Your Life Remix EP,Grouplove,2016-11-04,248812,16,0.523,0.121,0.523,0.789,0.00106,0.143,-5.449,0.0302,95.05,4
+121,Welcome to Your Life - Sweekuh Remix,Welcome to Your Life Remix EP,Grouplove,2016-11-04,185000,13,0.662,0.276,0.662,0.719,3.65e-06,0.0989,-5.121,0.039,96.068,4
+122,Welcome to Your Life - Lucas Nord Remix,Welcome to Your Life Remix EP,Grouplove,2016-11-04,186000,24,0.6,0.214,0.6,0.668,2.48e-05,0.316,-6.725,0.236,97.036,4
+123,No Drama Queen - Paper Towns Soundtrack Version,No Drama Queen,Grouplove,2015-06-23,164333,30,0.481,0.0106,0.481,0.787,0.000646,0.0881,-5.132,0.0312,143.09,4
+124,I'm with You - Sylvan Esso Remix,I'm with You (Sylvan Esso Remix),Grouplove,2014-06-24,210505,8,0.628,0.162,0.628,0.673,0.000715,0.0486,-11.223,0.0431,139.998,4
+125,Shark Attack,Shark Attack EP,Grouplove,2014-05-16,238626,3,0.449,0.000264,0.449,0.635,4.65e-05,0.332,-7.557,0.0397,166.04,4
+126,Shark Attack - Viceroy Remix,Shark Attack EP,Grouplove,2014-05-16,233337,0,0.587,0.000304,0.587,0.924,0.00015,0.265,-5.251,0.136,166.101,4
+127,Shark Attack - Captain Cuts Remix,Shark Attack EP,Grouplove,2014-05-16,268373,1,0.581,0.00144,0.581,0.691,2.9e-05,0.665,-7.065,0.0395,166.087,4
+128,Shark Attack - Dualist Inquiry Remix,Shark Attack EP,Grouplove,2014-05-16,233777,0,0.65,0.0557,0.65,0.614,0.0991,0.0796,-7.704,0.0449,75.48,4
+129,Let Me In - From The Fault in Our Stars Soundtrack,Let Me In,Grouplove,2014-04-29,239657,54,0.476,0.00397,0.476,0.744,0.000173,0.0982,-6.602,0.0515,127.934,4
+130,Shark Attack - Captain Cuts Remix,Shark Attack (Captain Cuts Remix),Grouplove,2014-03-25,268373,14,0.581,0.00144,0.581,0.691,2.9e-05,0.665,-7.065,0.0395,166.087,4
+131,Don't Worry Baby - Single Version,Don't Worry Baby,Grouplove,2014-03-17,186590,14,0.618,0.0144,0.618,0.711,5.3e-06,0.132,-6.567,0.0437,132.037,4
+132,Colours - Live from the Seesaw Tour,I'm with You,Grouplove,2014-03-04,336532,13,0.362,0.00433,0.362,0.859,0.0,0.387,-5.295,0.0706,97.615,4
+133,Schoolboy - Live from the Seesaw Tour,I'm with You,Grouplove,2014-03-04,261346,10,0.529,0.0115,0.529,0.831,1.12e-06,0.931,-5.14,0.0471,113.693,4
+134,I'm with You - Live from the Seesaw Tour,I'm with You,Grouplove,2014-03-04,326173,13,0.463,0.00988,0.463,0.925,0.00928,0.187,-5.089,0.131,140.068,4
+135,Raspberry - Live Acoustic from the Seesaw Tour,I'm with You,Grouplove,2014-03-04,200640,11,0.365,0.0344,0.365,0.749,0.0,0.94,-4.721,0.0518,102.657,4
+136,Ways to Go - Live from the Seesaw Tour - Acoustic,I'm with You,Grouplove,2014-03-04,243920,12,0.523,0.0654,0.523,0.852,0.0,0.681,-4.517,0.0365,96.744,4
+137,Gold Coast - Live Acoustic from the Seesaw Tour,I'm with You,Grouplove,2014-03-04,352680,11,0.481,0.11,0.481,0.463,0.0,0.633,-7.124,0.038,123.16,4
+138,Shark Attack - Viceroy Remix,Shark Attack (Viceroy Remix),Grouplove,2014-03-04,233337,7,0.587,0.000304,0.587,0.924,0.00015,0.265,-5.251,0.136,166.101,4
+139,Ways to Go,Ways to Go,Grouplove,2014-01-14,215520,6,0.577,0.00338,0.577,0.827,0.000647,0.26,-7.54,0.0365,101.031,4
+140,Ways to Go - Everything Everything Remix,Ways to Go,Grouplove,2014-01-14,286272,0,0.597,0.0151,0.597,0.916,0.000283,0.173,-4.628,0.0366,113.023,4
+141,Ways to Go - Thom alt-J Remix,Ways to Go,Grouplove,2014-01-14,208968,0,0.546,0.24,0.546,0.714,0.00905,0.153,-6.866,0.0753,144.998,4
+142,Ways to Go - Grandtheft Remix,Ways to Go,Grouplove,2014-01-14,203274,1,0.739,0.00424,0.739,0.726,0.00126,0.221,-6.946,0.0455,101.035,4
+143,Flowers - Bonus Track,Ways to Go,Grouplove,2014-01-14,254029,7,0.31,0.000649,0.31,0.923,0.0,0.355,-4.389,0.164,206.011,4
+144,Ways to Go - Captain Cuts Remix,Ways to Go (Captain Cuts Remix),Grouplove,2013-10-08,240152,12,0.646,0.000381,0.646,0.776,0.0993,0.156,-6.747,0.0349,120.043,4
+145,Borderlines and Aliens,Borderlines and Aliens,Grouplove,2013-09-13,230373,0,0.407,0.000809,0.407,0.93,1.43e-05,0.248,-6.298,0.0977,102.57,4
+146,Ways to Go - Grandtheft Remix,Ways to Go (Remix),Grouplove,2013-08-13,203274,16,0.739,0.00424,0.739,0.726,0.00126,0.221,-6.946,0.0455,101.035,4
+147,Architect,Architect,Grouplove,2013-04-20,234051,35,0.372,0.868,0.372,0.313,6.45e-05,0.115,-9.687,0.0302,97.072,4
+148,Make It to Me,Make It to Me,Manchester Orchestra,2013-04-20,233373,37,0.644,0.00416,0.644,0.9,0.0342,0.0908,-7.075,0.0416,144.026,4
+149,Tongue Tied,Tongue Tied,Grouplove,2012-03-02,218013,8,0.56,0.00847,0.56,0.936,0.0,0.161,-5.835,0.0439,112.96,4
+150,Je Pense Toujours a Toi,Tongue Tied,Grouplove,2012-03-02,142024,2,0.473,0.937,0.473,0.419,0.0809,0.141,-10.23,0.0312,100.732,4
+151,Underground,Tongue Tied,Grouplove,2012-03-02,194147,2,0.402,0.468,0.402,0.673,0.000133,0.0918,-6.734,0.0321,136.832,4
+152,Tongue Tied - Gigamesh Remix,Tongue Tied (Remix Version),Grouplove,2012-02-21,267865,16,0.742,0.0415,0.742,0.84,0.000519,0.0636,-5.139,0.0613,116.976,4
+153,Intro - Spotify Sessions,Spotify Sessions,Grouplove,2011-09-13,164097,5,0.708,0.71,0.708,0.231,0.0,0.31,-16.704,0.926,100.89,3
+154,Cruel and Beautiful World - Spotify Sessions,Spotify Sessions,Grouplove,2011-09-13,314404,10,0.466,0.34,0.466,0.299,0.0,0.478,-8.346,0.0706,122.218,3
+155,Tongue Tied - Spotify Sessions,Spotify Sessions,Grouplove,2011-09-13,266468,23,0.566,0.0125,0.566,0.804,0.0,0.611,-5.705,0.058,113.926,4
+156,Colours - Spotify Sessions,Spotify Sessions,Grouplove,2011-09-13,268427,17,0.468,0.00186,0.468,0.779,0.0,0.669,-4.961,0.0322,96.964,4
+157,Colours,Colours,Grouplove,2011-09-13,257786,1,0.529,0.0211,0.529,0.83,0.0,0.0983,-5.428,0.0397,93.933,4
+158,Itchin' on a Photograph,Itchin' on a Photograph,Grouplove,2011-06-03,259506,17,0.501,0.137,0.501,0.877,0.0,0.309,-6.369,0.0484,96.993,4
+159,Colours,Grouplove,Grouplove,2011-01-25,254440,40,0.527,0.0172,0.527,0.837,0.0,0.136,-5.424,0.0391,93.95,4
+160,Naked Kids,Grouplove,Grouplove,2011-01-25,208613,26,0.605,0.137,0.605,0.534,0.0,0.136,-6.843,0.0324,104.978,4
+161,Gold Coast,Grouplove,Grouplove,2011-01-25,294746,32,0.623,0.0228,0.623,0.618,0.0,0.115,-6.556,0.0342,129.967,4
+162,Getaway Car,Grouplove,Grouplove,2011-01-25,228613,25,0.504,0.0491,0.504,0.689,0.0,0.0816,-5.786,0.0259,144.13,3
+163,Don't Say Oh Well,Grouplove,Grouplove,2011-01-25,158240,33,0.374,0.00342,0.374,0.959,0.0,0.0495,-3.796,0.0503,185.052,4
+164,Get Giddy,Grouplove,Grouplove,2011-01-25,249533,26,0.508,0.254,0.508,0.569,0.0,0.0803,-5.963,0.0265,132.006,4
