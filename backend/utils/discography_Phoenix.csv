@@ -1,0 +1,169 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,J-Boy,Ti Amo,Phoenix,2017-06-09,248213,48,0.518,0.034,0.518,0.909,0.00938,0.141,-6.76,0.0475,97.996,4
+1,Ti Amo,Ti Amo,Phoenix,2017-06-09,205920,45,0.625,0.00426,0.625,0.7,0.0949,0.0737,-6.809,0.0402,121.081,3
+2,Tuttifrutti,Ti Amo,Phoenix,2017-06-09,232680,40,0.629,0.000449,0.629,0.735,0.00786,0.318,-6.983,0.0312,115.985,4
+3,Fior Di Latte,Ti Amo,Phoenix,2017-06-09,243733,41,0.568,0.195,0.568,0.503,0.000224,0.183,-8.584,0.0308,130.041,4
+4,Lovelife,Ti Amo,Phoenix,2017-06-09,151266,36,0.593,0.00026,0.593,0.705,0.0388,0.344,-7.668,0.0308,123.974,4
+5,Goodbye Soleil,Ti Amo,Phoenix,2017-06-09,235773,41,0.608,0.022,0.608,0.781,7.43e-06,0.0908,-8.956,0.0505,93.005,4
+6,Fleur De Lys,Ti Amo,Phoenix,2017-06-09,223533,35,0.598,0.00329,0.598,0.828,0.0342,0.212,-7.931,0.0393,118.966,4
+7,Role Model,Ti Amo,Phoenix,2017-06-09,275520,37,0.457,0.00404,0.457,0.617,0.00137,0.381,-7.769,0.0376,83.059,4
+8,Via Veneto,Ti Amo,Phoenix,2017-06-09,161853,32,0.37,0.579,0.37,0.552,0.00813,0.332,-11.58,0.0465,164.05,4
+9,Telefono,Ti Amo,Phoenix,2017-06-09,225400,43,0.655,0.128,0.655,0.512,0.00328,0.068,-10.07,0.0311,121.058,4
+10,Entertainment,Bankrupt!,Phoenix,2013-04-23,219973,45,0.402,0.00133,0.402,0.72,0.0396,0.325,-4.698,0.0473,75.38,4
+11,The Real Thing,Bankrupt!,Phoenix,2013-04-23,202893,34,0.432,0.000675,0.432,0.816,0.0046,0.159,-4.535,0.0479,120.045,4
+12,S.O.S In Bel Air,Bankrupt!,Phoenix,2013-04-23,223173,36,0.238,0.0096,0.238,0.805,0.00041,0.272,-4.608,0.0438,139.966,4
+13,Trying To Be Cool,Bankrupt!,Phoenix,2013-04-23,228133,46,0.485,0.0146,0.485,0.758,0.0171,0.315,-4.901,0.034,113.966,4
+14,Bankrupt!,Bankrupt!,Phoenix,2013-04-23,417213,31,0.282,0.0414,0.282,0.466,0.677,0.098,-12.079,0.0332,123.862,4
+15,Drakkar Noir,Bankrupt!,Phoenix,2013-04-23,202173,36,0.385,0.00121,0.385,0.882,4.84e-05,0.46,-5.067,0.0513,129.026,4
+16,Chloroform,Bankrupt!,Phoenix,2013-04-23,244813,46,0.326,0.00243,0.326,0.724,0.006,0.081,-7.814,0.0355,137.62,4
+17,Don't,Bankrupt!,Phoenix,2013-04-23,196053,34,0.523,4.98e-05,0.523,0.799,0.593,0.403,-5.995,0.0365,103.867,4
+18,Bourgeois,Bankrupt!,Phoenix,2013-04-23,293226,36,0.502,0.00516,0.502,0.659,5.76e-05,0.239,-7.79,0.0348,122.918,4
+19,Oblique City,Bankrupt!,Phoenix,2013-04-23,209866,29,0.254,0.00822,0.254,0.783,0.000682,0.0895,-6.436,0.0351,135.617,4
+20,Entertainment,Bankrupt! (Deluxe),Phoenix,2013-04-22,220240,31,0.392,0.00151,0.392,0.723,0.0254,0.332,-3.973,0.0475,75.305,4
+21,The Real Thing,Bankrupt! (Deluxe),Phoenix,2013-04-22,202893,24,0.446,0.00089,0.446,0.848,0.00273,0.202,-3.787,0.0458,120.081,4
+22,S.O.S. in Bel Air,Bankrupt! (Deluxe),Phoenix,2013-04-22,221746,25,0.242,0.0108,0.242,0.825,0.000103,0.316,-3.822,0.0454,139.956,4
+23,Trying to Be Cool,Bankrupt! (Deluxe),Phoenix,2013-04-22,229560,30,0.492,0.0133,0.492,0.805,0.0147,0.332,-4.186,0.0337,113.981,4
+24,Bankrupt!,Bankrupt! (Deluxe),Phoenix,2013-04-22,417213,24,0.277,0.0454,0.277,0.485,0.719,0.0878,-11.408,0.0312,131.163,4
+25,Drakkar Noir,Bankrupt! (Deluxe),Phoenix,2013-04-22,202173,25,0.233,0.00116,0.233,0.899,1.88e-05,0.458,-4.315,0.0573,128.826,4
+26,Chloroform,Bankrupt! (Deluxe),Phoenix,2013-04-22,244813,26,0.33,0.00242,0.33,0.733,0.0103,0.0812,-7.164,0.0346,137.589,4
+27,Don't,Bankrupt! (Deluxe),Phoenix,2013-04-22,196053,22,0.525,6.03e-05,0.525,0.823,0.42,0.378,-5.325,0.0376,103.948,4
+28,Bourgeois,Bankrupt! (Deluxe),Phoenix,2013-04-22,293226,24,0.496,0.00511,0.496,0.691,2.65e-05,0.313,-7.021,0.0344,122.879,4
+29,Oblique City,Bankrupt! (Deluxe),Phoenix,2013-04-22,210600,21,0.255,0.00906,0.255,0.789,0.000428,0.0892,-5.664,0.0348,135.582,4
+30,Entertainment - Grizzly Bear Remix,Bankrupt! (Deluxe),Phoenix,2013-04-22,267611,18,0.637,0.000289,0.637,0.946,0.798,0.187,-4.448,0.0829,160.027,4
+31,Entertainment - Todd Edwards Remix,Bankrupt! (Deluxe),Phoenix,2013-04-22,344038,17,0.84,0.000708,0.84,0.516,0.607,0.123,-8.699,0.0554,123.997,4
+32,Entertainment - Noir & Blanc,Bankrupt! (Deluxe),Phoenix,2013-04-22,188983,17,0.389,0.543,0.389,0.528,9.63e-05,0.145,-5.408,0.0282,139.809,3
+33,The Bankrupt! Diaries - 71 Sketches from the Bankrupt! Sessions,Bankrupt! (Deluxe),Phoenix,2013-04-22,3867709,16,0.409,0.788,0.409,0.458,0.231,0.399,-6.711,0.0411,129.402,4
+34,Entertainment - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,48333,10,0.757,0.671,0.757,0.252,0.0,0.122,-16.779,0.951,107.465,5
+35,Entertainment - Commentary II,Bankrupt! (Commentary Version),Phoenix,2013-04-22,44266,9,0.614,0.831,0.614,0.307,0.0,0.129,-16.277,0.965,76.419,3
+36,The Real Thing - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,46066,9,0.727,0.648,0.727,0.2,0.0,0.152,-18.672,0.957,108.05,3
+37,S.O.S. in Bel Air - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,59106,8,0.708,0.759,0.708,0.175,0.0,0.37,-16.312,0.951,82.532,4
+38,Trying to Be Cool - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,35706,8,0.77,0.865,0.77,0.113,0.0,0.138,-21.312,0.948,100.715,5
+39,Bankrupt! - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,68746,8,0.693,0.716,0.693,0.208,0.0,0.184,-19.314,0.944,80.893,4
+40,Drakkar Noir - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,58533,8,0.668,0.814,0.668,0.294,0.0,0.282,-15.439,0.942,150.21,1
+41,Chloroform - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,33453,7,0.796,0.561,0.796,0.289,0.0,0.352,-14.671,0.952,52.085,3
+42,Don't - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,48080,7,0.722,0.661,0.722,0.262,0.0,0.205,-14.383,0.918,75.702,5
+43,Bourgeois - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,60493,7,0.661,0.782,0.661,0.26,0.0,0.46,-15.847,0.95,94.011,4
+44,Oblique City - Commentary,Bankrupt! (Commentary Version),Phoenix,2013-04-22,34960,7,0.761,0.775,0.761,0.374,0.0,0.218,-15.963,0.953,73.833,3
+45,Lisztomania - Alex Metric Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,308453,28,0.722,0.0354,0.722,0.833,0.0214,0.071,-5.936,0.0627,110.027,4
+46,Fences - The Soft Pack Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,259293,14,0.451,0.266,0.451,0.86,0.042,0.184,-7.696,0.0795,142.483,4
+47,1901 Bo Flex'd - Passion Pit Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,254706,18,0.542,0.000282,0.542,0.8,0.3,0.0722,-9.385,0.0441,144.04,4
+48,Lasso - 2 Door Cinema Club Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,174026,17,0.646,0.00148,0.646,0.833,0.0328,0.0627,-7.638,0.0414,148.024,4
+49,Fences - 25 Hrs a Day Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,245666,16,0.654,0.504,0.654,0.73,0.00828,0.153,-6.524,0.0349,124.994,4
+50,1901 - L'Aiglon Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,192400,12,0.529,0.0806,0.529,0.866,1.45e-06,0.426,-6.104,0.0606,143.902,4
+51,Love Like a Sunset - Turzi Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,271573,11,0.691,0.76,0.691,0.863,0.924,0.11,-8.898,0.0336,124.97,4
+52,Fences - Boombass Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,414093,17,0.653,0.00235,0.653,0.623,0.304,0.0706,-8.644,0.0349,122.004,4
+53,Lisztomania - 25hrs a Day Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,336933,14,0.605,0.416,0.605,0.828,0.00953,0.396,-5.221,0.0286,102.498,4
+54,Fences - Friendly Fires Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,311466,11,0.787,0.169,0.787,0.778,0.000345,0.0593,-5.77,0.0994,113.01,4
+55,Armistice - Yacht Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,278813,13,0.795,0.437,0.795,0.734,0.00023,0.0583,-8.733,0.0339,120.003,4
+56,Girlfriend - Young Fathers Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,260773,10,0.724,0.000227,0.724,0.887,0.774,0.137,-7.517,0.0431,136.033,4
+57,Fences - Chairlift Remix,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,246520,10,0.23,0.371,0.23,0.441,0.00911,0.114,-11.99,0.0434,82.582,3
+58,Rome - Neighbours With Devendra Banhart,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,294573,16,0.684,0.901,0.684,0.392,0.914,0.0802,-13.367,0.0293,126.015,4
+59,Love Like a Sunset - Animal Collective Remix / Deakin's Jam,Wolfgang Amadeus Phoenix (Remix Collection),Phoenix,2009-10-20,247906,11,0.237,0.0073,0.237,0.807,0.128,0.138,-7.102,0.0765,153.9,5
+60,Lisztomania,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,241640,65,0.486,0.0339,0.486,0.784,0.00452,0.53,-6.68,0.0852,195.154,4
+61,1901,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,193106,67,0.591,0.0605,0.591,0.831,4.67e-05,0.19,-5.647,0.0415,144.084,4
+62,Fences,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,224973,46,0.588,0.0679,0.588,0.734,0.000996,0.383,-7.115,0.0286,113.0,4
+63,"Love Like a Sunset, Pt. 1",Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,338546,40,0.625,0.503,0.625,0.543,0.898,0.104,-10.3,0.0291,124.981,4
+64,"Love Like a Sunset, Pt. 2",Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,116720,41,0.558,0.627,0.558,0.43,0.308,0.102,-9.33,0.0377,115.913,3
+65,Lasso,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,167840,53,0.642,0.0208,0.642,0.628,0.00029,0.125,-7.272,0.0349,150.948,4
+66,Rome,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,278080,45,0.626,0.369,0.626,0.686,0.0963,0.0958,-7.058,0.0321,126.206,4
+67,Countdown,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,237093,40,0.378,0.00887,0.378,0.726,0.393,0.0768,-6.009,0.0501,147.884,4
+68,Girlfriend,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,204106,46,0.704,0.351,0.704,0.657,0.0259,0.0888,-8.245,0.0282,136.07,4
+69,Armistice,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,185106,44,0.576,0.0504,0.576,0.766,0.000124,0.085,-7.056,0.0291,149.989,4
+70,Napoleon Says,It's Never Been Like That,Phoenix,2006-10-31,193546,0,0.543,0.00632,0.543,0.737,0.00167,0.109,-3.271,0.0324,122.978,4
+71,Consolation Prizes,It's Never Been Like That,Phoenix,2006-10-31,196253,1,0.698,0.000901,0.698,0.586,0.000601,0.108,-5.348,0.0395,102.02,4
+72,Rally,It's Never Been Like That,Phoenix,2006-10-31,197106,0,0.691,0.16,0.691,0.724,1.1e-06,0.1,-5.547,0.0475,147.948,4
+73,Long Distance Call,It's Never Been Like That,Phoenix,2006-10-31,184680,1,0.752,0.0226,0.752,0.478,2.11e-05,0.0933,-5.532,0.0507,104.991,4
+74,One Time Too Many,It's Never Been Like That,Phoenix,2006-10-31,220720,1,0.764,0.00774,0.764,0.762,0.0114,0.102,-6.963,0.0315,134.023,4
+75,Lost And Found,It's Never Been Like That,Phoenix,2006-10-31,176186,0,0.624,0.158,0.624,0.699,7.44e-05,0.121,-5.502,0.0297,104.949,4
+76,Courtesy Laughs,It's Never Been Like That,Phoenix,2006-10-31,194813,0,0.644,0.00162,0.644,0.664,0.0,0.0657,-5.948,0.0457,137.984,4
+77,North,It's Never Been Like That,Phoenix,2006-10-31,301373,0,0.658,0.502,0.658,0.71,0.908,0.186,-10.939,0.0353,147.976,4
+78,Sometimes In the Fall,It's Never Been Like That,Phoenix,2006-10-31,349533,0,0.6,0.00679,0.6,0.759,0.00123,0.091,-6.396,0.0545,153.049,4
+79,Second To None,It's Never Been Like That,Phoenix,2006-10-31,205226,0,0.601,0.00453,0.601,0.712,1.58e-06,0.0913,-4.039,0.0389,161.964,4
+80,Napoleon Says,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,193546,34,0.543,0.00632,0.543,0.737,0.00167,0.109,-3.271,0.0324,122.978,4
+81,Consolation Prizes,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,196253,43,0.706,0.000725,0.706,0.606,0.000358,0.107,-5.362,0.0386,102.0,4
+82,Rally,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,196813,37,0.67,0.156,0.67,0.722,0.0,0.11,-5.529,0.0501,147.891,4
+83,Long Distance Call,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,186159,47,0.752,0.0202,0.752,0.496,1.33e-05,0.0729,-5.498,0.0446,104.949,4
+84,One Time Too Many,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,220720,40,0.764,0.00774,0.764,0.762,0.0114,0.102,-6.963,0.0315,134.023,4
+85,Lost and Found,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,176186,35,0.624,0.158,0.624,0.699,7.44e-05,0.121,-5.502,0.0297,104.949,4
+86,Courtesy Laughs,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,194813,28,0.644,0.00162,0.644,0.664,0.0,0.0657,-5.948,0.0457,137.984,4
+87,North,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,301373,41,0.658,0.502,0.658,0.71,0.908,0.186,-10.939,0.0353,147.976,4
+88,Sometimes in the Fall,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,349533,36,0.599,0.00503,0.599,0.768,0.000481,0.102,-6.237,0.0497,153.054,4
+89,Second to None,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,205226,34,0.601,0.00453,0.601,0.712,1.58e-06,0.0913,-4.039,0.0389,161.964,4
+90,Napoleon Says - Live,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,205013,22,0.479,0.00467,0.479,0.924,0.00218,0.865,-5.295,0.0529,122.94,4
+91,Rally - Live,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,198933,22,0.286,0.0043,0.286,0.896,0.00396,0.775,-5.618,0.0858,156.855,4
+92,Sometimes in the Fall - Live,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,368840,22,0.25,0.00156,0.25,0.94,0.00154,0.935,-4.844,0.14,152.637,4
+93,Second to None - Live,It's Never Been Like That (Deluxe Version),Phoenix,2006-05-12,389106,21,0.262,0.00524,0.262,0.921,0.101,0.779,-4.829,0.078,157.616,4
+94,Everything Is Everything,Alphabetical,Phoenix,2004-03-22,178613,50,0.699,0.0298,0.699,0.814,0.0172,0.104,-7.628,0.0339,109.071,4
+95,Run Run Run,Alphabetical,Phoenix,2004-03-22,230453,43,0.632,0.032,0.632,0.819,0.0094,0.0473,-5.912,0.156,176.01,4
+96,I'm an Actor,Alphabetical,Phoenix,2004-03-22,154240,26,0.67,0.0164,0.67,0.669,0.17,0.0431,-4.428,0.0686,143.895,4
+97,Love for Granted,Alphabetical,Phoenix,2004-03-22,264866,36,0.694,0.0526,0.694,0.476,0.581,0.0754,-7.595,0.0285,131.976,4
+98,Victim of the Crime,Alphabetical,Phoenix,2004-03-22,245800,35,0.863,0.00136,0.863,0.595,0.229,0.109,-5.591,0.0333,97.688,4
+99,(You Can't Blame It On) Anybody,Alphabetical,Phoenix,2004-03-22,213800,36,0.856,0.0958,0.856,0.76,1.19e-06,0.128,-4.974,0.0423,99.251,4
+100,Congratulations,Alphabetical,Phoenix,2004-03-22,72640,29,0.949,0.0102,0.949,0.621,0.0114,0.358,-6.525,0.181,99.273,4
+101,If It's Not With You,Alphabetical,Phoenix,2004-03-22,237440,30,0.91,0.336,0.91,0.395,0.000412,0.0989,-7.188,0.0737,132.696,4
+102,Holdin' on Together,Alphabetical,Phoenix,2004-03-22,207106,39,0.81,0.166,0.81,0.589,0.0,0.114,-7.98,0.0961,101.973,4
+103,Alphabetical,Alphabetical,Phoenix,2004-03-22,204916,32,0.749,0.137,0.749,0.443,0.0133,0.282,-8.798,0.0333,143.925,4
+104,Congratulations - Revisited,Alphabetical,Phoenix,2004-03-22,67758,24,0.712,0.289,0.712,0.898,0.952,0.0747,-7.942,0.0588,173.22,4
+105,School's Rules,United,Phoenix,2000-03-06,92333,30,0.525,0.00474,0.525,0.379,0.928,0.226,-9.119,0.0512,120.404,4
+106,Too Young,United,Phoenix,2000-03-06,197973,57,0.622,0.0625,0.622,0.75,0.000133,0.127,-6.367,0.0445,141.324,4
+107,Honeymoon,United,Phoenix,2000-03-06,300533,37,0.56,0.049,0.56,0.528,0.417,0.0869,-9.323,0.0304,148.444,4
+108,If I Ever Feel Better,United,Phoenix,2000-03-06,266600,66,0.755,0.0492,0.755,0.553,0.00607,0.0646,-9.449,0.107,119.7,4
+109,Party Time,United,Phoenix,2000-03-06,133933,29,0.19,0.000128,0.19,0.762,0.834,0.163,-8.157,0.039,161.327,4
+110,On Fire,United,Phoenix,2000-03-06,169800,36,0.459,0.0212,0.459,0.749,0.00172,0.263,-7.439,0.0781,175.766,4
+111,Embuscade,United,Phoenix,2000-03-06,236666,35,0.436,0.0252,0.436,0.573,0.84,0.0635,-7.52,0.0279,135.645,4
+112,Summer Days,United,Phoenix,2000-03-06,195866,37,0.367,0.0588,0.367,0.447,1.18e-05,0.106,-7.622,0.0283,143.343,3
+113,"Funky Squaredance, Pt. 1/2/3 (Medley)",United,Phoenix,2000-03-06,579066,29,0.643,0.0158,0.643,0.55,0.00378,0.169,-8.284,0.0532,113.941,4
+114,Definitive Breaks,United,Phoenix,2000-03-06,100466,29,0.696,0.4,0.696,0.466,0.707,0.113,-9.928,0.0356,98.004,4
+115,"Identical - From The Motion Picture ""On The Rocks""","Identical (From The Motion Picture ""On The Rocks"")",Phoenix,2020-08-19,193263,61,0.627,0.000237,0.627,0.761,0.839,0.135,-8.57,0.036,128.005,4
+116,Fior Di Latte - A. G. Cook Remix,Fior Di Latte (A. G. Cook Remix),Phoenix,2018-02-27,320149,13,0.65,0.0707,0.65,0.585,0.000109,0.0953,-6.913,0.0774,130.025,4
+117,J-Boy - Recorded at Spotify Studios NYC,Spotify Singles,Phoenix,2017-08-02,230575,24,0.492,0.0913,0.492,0.829,0.00801,0.133,-9.551,0.0558,195.987,4
+118,Un Peu Menteur - Recorded at Spotify Studios NYC,Spotify Singles,Phoenix,2017-08-02,201652,16,0.495,0.00455,0.495,0.441,0.0193,0.0649,-9.749,0.0323,119.883,4
+119,Goodbye Soleil,Goodbye Soleil,Phoenix,2017-06-02,235773,23,0.608,0.022,0.608,0.781,7.43e-06,0.0908,-8.956,0.0505,93.005,4
+120,J-Boy,J-Boy,Phoenix,2017-04-27,248213,30,0.518,0.034,0.518,0.909,0.00938,0.141,-6.76,0.0475,97.996,4
+121,Pembunuh Cinta,Pembunuh Cinta,Phoenix,2016-01-21,228466,4,0.572,0.2,0.572,0.481,1.38e-05,0.44,-6.212,0.0272,135.874,4
+122,Alone on Christmas Day,Alone on Christmas Day,Phoenix,2015-12-04,174973,26,0.384,0.486,0.384,0.733,0.000397,0.137,-5.089,0.0387,117.82,4
+123,Entertainment - C. Bear of Grizzly Bear Remix,Entertainment (C. Bear of Grizzly Bear Remix),Phoenix,2014-03-03,267613,7,0.633,0.000282,0.633,0.947,0.767,0.179,-4.661,0.0843,160.06,4
+124,Entertainment (Noir & Blanc),Entertainment (Noir & Blanc),Phoenix,2014-03-03,188986,9,0.389,0.554,0.389,0.521,0.000201,0.144,-5.625,0.0283,139.814,3
+125,Entertainment - Todd Edwards Remix,Entertainment (Todd Edwards Remix),Phoenix,2014-03-03,344040,6,0.839,0.000691,0.839,0.509,0.603,0.123,-8.901,0.056,123.997,4
+126,Entertainment - Stripped Down Version,Spotify Sessions,Phoenix,2014-03-03,193933,13,0.368,0.124,0.368,0.688,0.0493,0.177,-9.101,0.0754,146.607,4
+127,The Real Thing - Stripped Down Version,Spotify Sessions,Phoenix,2014-03-03,213680,8,0.45,0.0838,0.45,0.572,0.000299,0.186,-7.663,0.0383,115.932,4
+128,Trying to Be Cool - Stripped Down Version,Spotify Sessions,Phoenix,2014-03-03,218120,28,0.653,0.0366,0.653,0.562,0.000331,0.0719,-11.973,0.0414,110.52,4
+129,Trying To Be Cool,Trying To Be Cool,Phoenix,2013-07-04,213266,21,0.377,0.0134,0.377,0.843,0.00043,0.579,-3.266,0.0378,115.341,4
+130,Chloroform,Chloroform,Phoenix,2013-03-25,244813,4,0.33,0.00242,0.33,0.733,0.0103,0.0812,-7.164,0.0346,137.589,4
+131,Entertainment,Entertainment,Phoenix,2013-02-19,220240,22,0.392,0.00151,0.392,0.723,0.0254,0.332,-3.973,0.0475,75.305,4
+132,Lisztomania - Holy Ghost! Loves Paris Remixomania,Kitsuné: Lisztomania Remixes - EP,Phoenix,2009-06-15,359853,16,0.678,0.0671,0.678,0.94,0.269,0.178,-4.7,0.0623,110.007,4
+133,Lisztomania - Classixx Version,Kitsuné: Lisztomania Remixes - EP,Phoenix,2009-06-15,304413,38,0.693,0.064,0.693,0.734,0.00872,0.0507,-7.766,0.0641,107.998,4
+134,Lisztomania - Der Die Das Remix,Kitsuné: Lisztomania Remixes - EP,Phoenix,2009-06-15,270720,9,0.744,0.0653,0.744,0.627,0.808,0.0484,-8.391,0.0595,124.958,4
+135,Fences - Friendly Fires Remix - Radio Edit,Fences,Phoenix,2009-01-01,312333,0,0.78,0.0569,0.78,0.744,0.000425,0.0709,-5.924,0.0928,112.999,4
+136,Fences,Fences,Phoenix,2009-01-01,224573,0,0.591,0.0639,0.591,0.74,0.000951,0.371,-6.8,0.0285,113.0,4
+137,Lizstomania - Live at Berghain,Live at Berghain (Spex Festival Berlin 20.5.2009),Phoenix,2009-01-01,227586,0,0.528,0.0045,0.528,0.867,0.0437,0.675,-6.363,0.0478,97.483,4
+138,Long Distance Call - Live at Berghain,Live at Berghain (Spex Festival Berlin 20.5.2009),Phoenix,2009-01-01,197760,0,0.537,0.00773,0.537,0.721,0.01,0.72,-7.766,0.053,104.864,4
+139,Rome - Live At Berghain,Live at Berghain (Spex Festival Berlin 20.5.2009),Phoenix,2009-01-01,276453,0,0.635,0.058,0.635,0.683,0.102,0.924,-8.369,0.0391,125.967,4
+140,1901 - Live at Berghain,Live at Berghain (Spex Festival Berlin 20.5.2009),Phoenix,2009-01-01,238240,0,0.466,0.000504,0.466,0.843,0.0165,0.947,-7.075,0.0484,143.977,4
+141,Consolation Prizes - Extended,Alt Versions 2006,Phoenix,2006-10-02,461586,2,0.611,0.0108,0.611,0.468,0.128,0.142,-7.415,0.0757,96.639,4
+142,Consolation Prizes - Remix by l'Aiglon,Alt Versions 2006,Phoenix,2006-10-02,209093,1,0.592,0.114,0.592,0.75,0.000103,0.119,-4.448,0.0349,102.042,4
+143,Long Distance Call - Remix by 25 Hours a Day,Alt Versions 2006,Phoenix,2006-10-02,250546,6,0.656,0.0126,0.656,0.852,0.0958,0.235,-5.808,0.0497,125.979,4
+144,Long Distance Call - Sébastien Tellier Remix,Alt Versions 2006,Phoenix,2006-10-02,189986,3,0.628,0.0812,0.628,0.58,0.0127,0.128,-5.905,0.0268,104.978,4
+145,Consolation Prizes,Consolation Prizes,Phoenix,2006-09-11,196253,14,0.706,0.000725,0.706,0.606,0.000358,0.107,-5.362,0.0386,102.0,4
+146,Consolation Prizes - Remix by l'Aiglon,Consolation Prizes,Phoenix,2006-09-11,207053,5,0.586,0.112,0.586,0.777,0.000108,0.0981,-4.199,0.0358,101.962,4
+147,Consolation Prizes - Extended,Consolation Prizes,Phoenix,2006-09-11,461546,6,0.616,0.0103,0.616,0.479,0.108,0.145,-7.183,0.076,96.934,4
+148,Napoleon Says - Live At O2 Musicflash 2006,Phoenix O2 Music Flash 2006,Phoenix,2006-08-26,194574,0,0.498,0.0148,0.498,0.732,5.04e-06,0.883,-9.029,0.0377,122.893,4
+149,Long Distance Call - Live At O2 Musicflash 2006,Phoenix O2 Music Flash 2006,Phoenix,2006-08-26,186356,0,0.596,0.113,0.596,0.508,0.000139,0.452,-9.731,0.0276,105.033,4
+150,If I Ever Feel Better - Live At O2 Musicflash 2006,Phoenix O2 Music Flash 2006,Phoenix,2006-08-26,370625,0,0.515,0.411,0.515,0.685,0.0,0.31,-10.182,0.0418,122.685,4
+151,Sometimes In The Fall - Live At O2 Musicflash 2006,Phoenix O2 Music Flash 2006,Phoenix,2006-08-26,340846,0,0.359,0.195,0.359,0.837,2.25e-06,0.727,-8.323,0.0537,153.603,4
+152,Long Distance Call - Remix by 25 Hours a Day,Long Distance Call,Phoenix,2006-05-05,252426,15,0.657,0.0108,0.657,0.858,0.139,0.223,-5.654,0.0473,125.969,4
+153,Everything Is Everything,Everything Is Everything,Phoenix,2004-12-31,178613,1,0.699,0.0298,0.699,0.814,0.0172,0.104,-7.628,0.0339,109.071,4
+154,I'm an Actor - Live One-Take Version,I'm an Actor (Live One-Take Version),Phoenix,2004-10-22,212426,7,0.338,0.0471,0.338,0.315,0.0154,0.172,-16.386,0.0352,143.708,4
+155,(You Can't Blame It On) Anybody - Radio Edit,You Can't Blame It On (Anybody),Phoenix,2004-09-20,169866,10,0.832,0.147,0.832,0.714,0.0,0.126,-6.576,0.0343,101.28,4
+156,"Run, Run, Run - Edit",Run Run Run,Phoenix,2004-07-02,211093,7,0.621,0.014,0.621,0.869,0.00886,0.0526,-4.195,0.166,175.964,4
+157,Run Run Run - SBN Session,Run Run Run,Phoenix,2004-07-02,143653,4,0.642,0.862,0.642,0.284,0.000257,0.125,-9.705,0.0363,90.807,4
+158,Love for Granted - Acoustic Mix,Run Run Run,Phoenix,2004-07-02,229933,5,0.404,0.797,0.404,0.235,0.0165,0.112,-13.259,0.0296,66.661,4
+159,If I Ever Feel Better,If I Ever Feel Better,Phoenix,2000,222826,42,0.775,0.083,0.775,0.51,0.00163,0.108,-9.53,0.147,119.707,4
+160,If I Ever Feel Better (I'd Go to the Disco),If I Ever Feel Better,Phoenix,2000,369466,25,0.71,0.000259,0.71,0.725,0.85,0.0428,-6.394,0.113,128.867,4
+161,On Fire - Nash Kato Version,If I Ever Feel Better,Phoenix,2000,125306,6,0.467,0.41,0.467,0.471,0.00013,0.0892,-10.077,0.0384,134.022,4
+162,Too Young,Too Young,Phoenix,2000,197973,19,0.622,0.0625,0.622,0.75,0.000133,0.127,-6.367,0.0445,141.324,4
+163,Too Young - Zoot Woman Remix,Too Young,Phoenix,2000,233773,10,0.705,0.0194,0.705,0.784,0.000228,0.206,-5.732,0.0333,139.839,4
+164,Too Young - Le Knight Club Remix,Too Young,Phoenix,2000,297493,18,0.664,0.00568,0.664,0.849,0.744,0.214,-7.107,0.0526,129.631,4
+165,Heatwave,Heatwave,Phoenix,1999,259560,37,0.666,0.000335,0.666,0.836,0.842,0.109,-7.002,0.0398,129.238,4
+166,I Love You - Remix by Cruz Esteban,Heatwave,Phoenix,1999,408173,10,0.895,0.217,0.895,0.859,0.898,0.0575,-8.81,0.123,119.207,4
+167,Heatwave - Edit,Heatwave,Phoenix,1999,196826,29,0.672,0.000266,0.672,0.868,0.895,0.13,-7.004,0.0388,129.279,4

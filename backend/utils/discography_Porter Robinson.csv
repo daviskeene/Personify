@@ -1,0 +1,96 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Divinity - ODESZA Remix,Worlds (Remixed),Porter Robinson,2015-10-02,326266,51,0.374,0.00688,0.374,0.803,0.617,0.0778,-6.056,0.0465,180.024,4
+1,Sad Machine - Deon Custom Remix,Worlds (Remixed),Porter Robinson,2015-10-02,306666,37,0.476,0.0214,0.476,0.862,0.00199,0.382,-3.809,0.113,89.838,4
+2,Years Of War - Rob Mayth Remix,Worlds (Remixed),Porter Robinson,2015-10-02,235369,36,0.562,0.0403,0.562,0.95,0.00794,0.117,-4.279,0.037,143.983,4
+3,Flicker - Mat Zo Remix,Worlds (Remixed),Porter Robinson,2015-10-02,295172,37,0.658,0.046,0.658,0.919,0.0019,0.0885,-3.298,0.266,173.963,4
+4,Fresh Static Snow - Last Island Remix,Worlds (Remixed),Porter Robinson,2015-10-02,192015,34,0.627,0.167,0.627,0.679,0.196,0.123,-8.445,0.0296,119.979,4
+5,Polygon Dust - Sleepy Tom Remix,Worlds (Remixed),Porter Robinson,2015-10-02,247703,32,0.741,0.00388,0.741,0.827,0.195,0.151,-10.119,0.0586,110.993,4
+6,Hear The Bells - Electric Mantis Remix,Worlds (Remixed),Porter Robinson,2015-10-02,285405,32,0.549,0.133,0.549,0.877,0.00378,0.109,-1.381,0.155,74.131,4
+7,Natural Light - San Holo Remix,Worlds (Remixed),Porter Robinson,2015-10-02,175670,38,0.362,0.00682,0.362,0.598,3.1e-06,0.0869,-7.802,0.443,145.976,3
+8,Lionhearted - Point Point Remix,Worlds (Remixed),Porter Robinson,2015-10-02,205090,30,0.627,0.0183,0.627,0.903,0.0048,0.0706,-2.599,0.0406,110.013,4
+9,Sea Of Voices - Galimatias Remix,Worlds (Remixed),Porter Robinson,2015-10-02,181052,34,0.482,0.279,0.482,0.572,0.00184,0.0929,-8.756,0.355,85.496,3
+10,Fellow Feeling - SLUMBERJACK Remix,Worlds (Remixed),Porter Robinson,2015-10-02,291367,30,0.347,0.0027,0.347,0.875,0.471,0.247,-4.457,0.451,149.93,4
+11,Goodbye To A World - Chrome Sparks Remix,Worlds (Remixed),Porter Robinson,2015-10-02,373119,40,0.351,0.117,0.351,0.796,0.00066,0.351,-6.868,0.056,127.992,4
+12,Divinity - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,97570,20,0.633,0.696,0.633,0.141,0.0,0.438,-35.475,0.865,86.287,1
+13,Sad Machine - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,140337,25,0.551,0.653,0.551,0.0979,0.0,0.155,-38.46,0.856,79.225,4
+14,Years Of War - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,97616,24,0.61,0.654,0.61,0.0689,0.0,0.119,-38.285,0.865,75.734,4
+15,Flicker - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,105139,24,0.62,0.64,0.62,0.0588,0.0,0.613,-36.856,0.689,112.192,4
+16,Fresh Static Snow - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,113104,24,0.557,0.579,0.557,0.0538,0.0,0.484,-39.814,0.755,97.779,3
+17,Polygon Dust - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,86884,16,0.712,0.496,0.712,0.0924,0.0,0.321,-33.109,0.583,115.845,4
+18,Hear The Bells - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,36690,23,0.704,0.653,0.704,0.0589,0.0,0.29,-37.341,0.732,43.026,3
+19,Natural Light - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,95851,16,0.601,0.656,0.601,0.0984,0.0,0.183,-37.207,0.907,71.107,3
+20,Sea Of Voices - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,111571,16,0.577,0.725,0.577,0.076,0.0,0.45,-38.775,0.919,77.156,5
+21,Fellow Feeling - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,135076,16,0.62,0.648,0.62,0.0816,0.0,0.247,-39.292,0.697,115.185,3
+22,Goodbye To A World - Commentary,Worlds Commentary,Porter Robinson,2014-08-25,169338,25,0.601,0.677,0.601,0.0646,0.0,0.138,-39.181,0.883,106.254,3
+23,Divinity,Worlds,Porter Robinson,2014-08-12,368373,57,0.496,0.00755,0.496,0.55,0.0122,0.0814,-5.418,0.034,90.036,4
+24,Sad Machine,Worlds,Porter Robinson,2014-08-12,350690,61,0.47,0.034,0.47,0.706,1.31e-06,0.0726,-4.902,0.0322,88.519,4
+25,Years Of War,Worlds,Porter Robinson,2014-08-12,236053,49,0.517,0.00574,0.517,0.74,0.00179,0.109,-5.059,0.0341,110.001,4
+26,Flicker,Worlds,Porter Robinson,2014-08-12,279000,52,0.589,0.0331,0.589,0.713,0.000411,0.178,-3.756,0.0976,92.018,4
+27,Fresh Static Snow,Worlds,Porter Robinson,2014-08-12,358760,48,0.636,0.00744,0.636,0.499,0.0169,0.112,-5.775,0.041,90.996,4
+28,Polygon Dust,Worlds,Porter Robinson,2014-08-12,209466,46,0.482,0.0297,0.482,0.757,0.0,0.0819,-3.387,0.042,95.002,4
+29,Hear The Bells,Worlds,Porter Robinson,2014-08-12,286880,46,0.319,0.424,0.319,0.64,2.63e-06,0.294,-3.872,0.032,140.054,4
+30,Natural Light,Worlds,Porter Robinson,2014-08-12,141226,44,0.444,0.39,0.444,0.267,0.875,0.102,-11.003,0.124,135.108,4
+31,Lionhearted,Worlds,Porter Robinson,2014-08-12,266106,53,0.621,0.0244,0.621,0.74,0.00219,0.174,-6.925,0.034,119.993,4
+32,Sea Of Voices,Worlds,Porter Robinson,2014-08-12,298980,50,0.215,0.206,0.215,0.437,0.576,0.0696,-8.103,0.0309,127.595,4
+33,Fellow Feeling,Worlds,Porter Robinson,2014-08-12,350173,46,0.312,0.0968,0.312,0.545,0.093,0.277,-5.336,0.0796,128.124,3
+34,Goodbye To A World,Worlds,Porter Robinson,2014-08-12,328506,72,0.444,0.453,0.444,0.35,0.109,0.0824,-7.194,0.0483,95.979,3
+35,Mirror,Mirror,Porter Robinson,2020-08-27,307394,36,0.543,0.00359,0.543,0.668,0.0,0.0807,-7.713,0.0533,111.936,4
+36,Get Your Wish (DJ NOT PORTER ROBINSON Remix),Get Your Wish Remixes,Porter Robinson,2020-07-23,220022,29,0.35,0.0193,0.35,0.854,0.0,0.189,-4.965,0.218,128.192,4
+37,Get Your Wish (Anamanaguchi Remix),Get Your Wish Remixes,Porter Robinson,2020-07-23,194092,17,0.453,0.0122,0.453,0.663,0.45,0.319,-7.259,0.0571,106.161,4
+38,Get Your Wish - DJ NOT PORTER ROBINSON Remix,Get Your Wish (Remixes),Porter Robinson,2020-07-22,220022,46,0.352,0.019,0.352,0.854,0.0,0.198,-4.959,0.207,127.73,4
+39,Get Your Wish - Anamanaguchi Remix,Get Your Wish (Remixes),Porter Robinson,2020-07-22,193890,34,0.467,0.0092,0.467,0.665,0.428,0.305,-7.244,0.0562,106.261,4
+40,Get Your Wish - Anamanaguchi Remix,Get Your Wish (Anamanaguchi Remix),Porter Robinson,2020-07-15,193890,43,0.467,0.0092,0.467,0.665,0.428,0.305,-7.244,0.0562,106.261,4
+41,Something Comforting,Something Comforting,Porter Robinson,2020-03-11,281716,38,0.475,0.0455,0.475,0.56,3.69e-06,0.0775,-9.705,0.0305,143.968,4
+42,Get Your Wish,Get Your Wish,Porter Robinson,2020-01-30,217879,30,0.539,0.0776,0.539,0.686,0.0,0.138,-5.847,0.0502,95.015,4
+43,Shelter,Shelter,Porter Robinson,2016-08-12,218964,67,0.276,0.00293,0.276,0.796,0.0,0.184,-4.499,0.0579,199.526,4
+44,The Thrill - Porter Robinson Remix,The Thrill (Porter Robinson Remix),NERO,2015-06-08,277693,31,0.469,0.0372,0.469,0.38,0.000212,0.317,-5.394,0.0306,79.981,4
+45,Divinity - filous Remix,Divinity (filous Remix),Porter Robinson,2014-12-19,247200,38,0.529,0.00859,0.529,0.721,0.526,0.0594,-9.994,0.0465,99.977,4
+46,Lionhearted - Arty Remix,Lionhearted (Remixes),Porter Robinson,2014-07-15,317106,43,0.513,0.0146,0.513,0.82,0.148,0.107,-4.451,0.061,128.066,4
+47,Lionhearted - The Alexanders Remix,Lionhearted (Remixes),Porter Robinson,2014-07-15,356453,21,0.799,0.0222,0.799,0.816,0.575,0.182,-5.077,0.0556,121.01,4
+48,Lionhearted - Giraffage Remix,Lionhearted (Remixes),Porter Robinson,2014-07-15,239626,19,0.8,0.0916,0.8,0.458,0.521,0.222,-8.494,0.0658,120.027,4
+49,Lionhearted - Radio Edit,Lionhearted (Remixes),Porter Robinson,2014-07-15,214146,26,0.578,0.0133,0.578,0.833,0.00165,0.136,-4.674,0.0403,120.047,4
+50,Sea Of Voices - RAC Mix,Sea Of Voices (RAC Mix),Porter Robinson,2014-01-01,367900,33,0.602,0.22,0.602,0.652,0.802,0.108,-5.955,0.0305,127.996,4
+51,Easy - Radio Edit,Easy,Mat Zo,2013-05-12,212842,39,0.499,0.0053,0.499,0.884,0.0,0.112,-4.658,0.0392,127.971,4
+52,Easy - Andy C Remix,Easy,Mat Zo,2013-05-12,317241,13,0.343,0.000723,0.343,0.989,0.747,0.258,-1.935,0.116,174.022,4
+53,Easy - Modek Bright As Day Remix,Easy,Mat Zo,2013-05-12,303750,8,0.703,0.000536,0.703,0.887,0.808,0.146,-4.879,0.109,127.942,4
+54,Easy - Botnek Remix,Easy,Mat Zo,2013-05-12,397692,8,0.63,0.000393,0.63,0.93,0.341,0.0917,-7.186,0.102,128.001,4
+55,Easy - Lemaitre Remix,Easy,Mat Zo,2013-05-12,237960,12,0.723,0.0814,0.723,0.696,1.5e-05,0.147,-4.905,0.123,124.945,4
+56,Easy - Extended Mix,Easy,Mat Zo,2013-05-12,396289,21,0.595,0.0054,0.595,0.793,0.000105,0.345,-5.912,0.0436,128.009,4
+57,Easy - Radio Edit,Easy (Remixes),Mat Zo,2013-04-12,339866,26,0.483,0.002,0.483,0.848,3.68e-06,0.179,-6.037,0.0497,125.001,4
+58,Easy - Andy C Remix,Easy (Remixes),Mat Zo,2013-04-12,315381,11,0.34,0.000701,0.34,0.989,0.765,0.268,-1.937,0.114,174.02,4
+59,Easy - Modek Bright as Day Remix,Easy (Remixes),Mat Zo,2013-04-12,303750,0,0.703,0.000536,0.703,0.887,0.808,0.146,-4.879,0.109,127.942,4
+60,Easy - Botnek Remix,Easy (Remixes),Mat Zo,2013-04-12,397692,0,0.63,0.000393,0.63,0.93,0.341,0.0917,-7.186,0.102,128.001,4
+61,Easy - Lemaitre Remix,Easy (Remixes),Mat Zo,2013-04-12,237960,0,0.723,0.0814,0.723,0.696,1.5e-05,0.147,-4.905,0.123,124.945,4
+62,Easy - Extended Mix,Easy (Remixes),Mat Zo,2013-04-12,396289,24,0.595,0.0054,0.595,0.793,0.000105,0.345,-5.912,0.0436,128.009,4
+63,Language - UK Edit,Language,Porter Robinson,2012-10-15,190795,4,0.515,0.141,0.515,0.605,0.000888,0.157,-5.176,0.0337,128.043,4
+64,Language - Extended Mix,Language,Porter Robinson,2012-10-15,368475,0,0.737,0.0168,0.737,0.614,0.0534,0.0682,-6.001,0.4,127.987,4
+65,Language - UK Edit,Language (Remixes),Porter Robinson,2012-08-10,199497,44,0.537,0.085,0.537,0.662,0.0158,0.0341,-4.723,0.0429,128.086,4
+66,Language - Extended Mix,Language (Remixes),Porter Robinson,2012-08-10,368475,40,0.737,0.0168,0.737,0.614,0.0534,0.0682,-6.001,0.4,127.987,4
+67,Language - Instrumental,Language (Remixes),Porter Robinson,2012-08-10,367505,12,0.691,0.0145,0.691,0.576,0.618,0.0719,-6.437,0.285,128.149,4
+68,Language - Instrumental Edit,Language (Remixes),Porter Robinson,2012-08-10,222003,10,0.507,0.113,0.507,0.665,0.219,0.0348,-4.964,0.0454,128.063,4
+69,I'm On Fire - Original Mix,I'm On Fire,Porter Robinson,2012-05-21,362814,30,0.85,0.00879,0.85,0.802,0.0267,0.091,-5.994,0.382,126.979,4
+70,I'm On Fire - Ryan Enzed Remix,I'm On Fire,Porter Robinson,2012-05-21,288188,14,0.732,0.065,0.732,0.934,0.000797,0.0538,-3.887,0.411,127.002,4
+71,Hello - Dirtyloud Monday Nite Remix,Hello Remixes Part 2,Sue Cho,2012-01-02,267428,10,0.685,0.0743,0.685,0.322,6.84e-05,0.0498,-9.938,0.075,140.02,4
+72,Hello - Chrizz Luvly & Rocket Pimp Remix,Hello Remixes Part 2,Sue Cho,2012-01-02,260017,9,0.735,0.000119,0.735,0.828,0.126,0.1,-2.562,0.0454,127.981,4
+73,Hello - Dilemn Remix,Hello Remixes Part 2,Sue Cho,2012-01-02,360000,10,0.609,0.00406,0.609,0.54,0.784,0.321,-7.184,0.183,128.005,4
+74,Hello - Schoolboy Remix,Hello Remixes Part 1,Lazy Rich,2011-04-04,281142,9,0.591,0.013,0.591,0.862,0.174,0.089,-6.434,0.037,140.056,4
+75,Hello - Digital Freq Remix,Hello Remixes Part 1,Lazy Rich,2011-04-04,450000,12,0.829,0.0169,0.829,0.623,0.264,0.0544,-5.91,0.106,127.988,4
+76,Hello - Sharooz Dub,Hello Remixes Part 1,Lazy Rich,2011-04-04,341250,7,0.937,0.0041,0.937,0.757,0.508,0.137,-4.535,0.196,128.018,4
+77,Hello - Jeff T Remix,Hello Remixes Part 1,Lazy Rich,2011-04-04,420000,26,0.847,9.57e-05,0.847,0.335,0.155,0.667,-4.778,0.0427,128.002,4
+78,Spitfire,Spitfire EP,Porter Robinson,2011,404834,39,0.581,0.0146,0.581,0.687,0.698,0.117,-7.936,0.034,140.044,4
+79,Unison,Spitfire EP,Porter Robinson,2011,349797,37,0.783,0.00131,0.783,0.453,0.893,0.104,-7.849,0.0648,128.003,4
+80,100% In The Bitch,Spitfire EP,Porter Robinson,2011,250605,33,0.824,0.002,0.824,0.887,0.0796,0.21,-6.773,0.129,107.979,4
+81,Vandalism,Spitfire EP,Porter Robinson,2011,440193,36,0.769,0.00746,0.769,0.593,0.646,0.109,-8.055,0.0896,126.988,4
+82,The State,Spitfire EP,Porter Robinson,2011,357143,31,0.594,6e-05,0.594,0.915,0.505,0.55,-6.458,0.103,140.029,4
+83,The Seconds (feat. Jano),Spitfire EP,Porter Robinson,2011,343129,32,0.826,0.0052,0.826,0.551,0.539,0.0711,-7.56,0.109,128.099,4
+84,Unison - Knife Party Remix,Spitfire EP,Porter Robinson,2011,298401,49,0.613,0.000211,0.613,0.836,0.833,0.0338,-6.067,0.0619,109.946,4
+85,Unison - Mikkas Remix,Spitfire EP,Porter Robinson,2011,362177,25,0.764,0.0015,0.764,0.633,0.82,0.366,-4.829,0.0457,128.009,4
+86,100% In The Bitch - Downlink Remix,Spitfire EP,Porter Robinson,2011,333200,20,0.842,0.0105,0.842,0.849,0.000102,0.153,-3.357,0.181,110.0,4
+87,The State - Skism Remix,Spitfire EP,Porter Robinson,2011,323616,25,0.45,8.16e-05,0.45,0.909,0.867,0.117,-6.058,0.0721,139.893,4
+88,Spitfire - Kill The Noise Remix,Spitfire EP,Porter Robinson,2011,251288,42,0.495,0.000174,0.495,0.901,0.926,0.369,-4.904,0.0407,172.143,4
+89,Vandalism - Lazy Rich Remix,Spitfire Remixes EP,Porter Robinson,2011,375000,8,0.64,0.00278,0.64,0.855,0.00459,0.0654,-2.51,0.209,128.016,4
+90,Vandalism - Dirtyloud Remix,Spitfire Remixes EP,Porter Robinson,2011,271128,7,0.549,0.000278,0.549,0.886,0.0437,0.0803,-5.512,0.0672,140.073,4
+91,Spitfire - Bjorn Akesson Remix,Spitfire Remixes EP,Porter Robinson,2011,534450,6,0.662,0.00324,0.662,0.979,0.613,0.62,-7.109,0.064,135.009,4
+92,Hello - Original Mix,Hello,Lazy Rich,2010-11-01,431269,19,0.86,0.021,0.86,0.532,0.13,0.0924,-7.158,0.105,127.985,4
+93,Say My Name (Radio Edit),Say My Name,Porter Robinson,2010-08-13,216440,35,0.604,0.000261,0.604,0.931,0.702,0.172,-5.447,0.0616,128.003,4
+94,Say My Name (Original Mix),Say My Name,Porter Robinson,2010-08-13,391682,25,0.716,0.000173,0.716,0.657,0.793,0.0662,-5.237,0.0962,127.997,4
