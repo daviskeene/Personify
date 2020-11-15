@@ -3,6 +3,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 import pandas as pd
 
+from predictions import _compute_rank, _get_sorted_discography_list
+
 """
 Code inspired by:
 https://morioh.com/p/31b8a607b2b0
@@ -82,7 +84,7 @@ def get_track_features(id):
     return track
 
 
-def get_discography_data(artist):
+def get_discography_data(artist, save=False):
     """
     Saves an Artist's discography data to a csv, with track features for each song.
     :param artist: Artist information (JSON), acquired from get_artist()
@@ -106,7 +108,8 @@ def get_discography_data(artist):
             tracks.extend(get_album_track_features(album))
     # create dataset
     df = pd.DataFrame(tracks, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'time_signature'])
-    df.to_csv(f"data/discography_{artist['name']}.csv", sep = ',')
+    if save:
+        df.to_csv(f"data/discography_{artist['name']}.csv", sep = ',')
     return df
 
 
@@ -122,9 +125,10 @@ def get_user_top_tracks(sp_range):
         ids.append(item['id'])
     return ids
 
-def get_user_top_tracks_data():
+def get_user_top_tracks_data(save=False):
 
-    ranges = ['short_term', 'medium_term', 'long_term']
+    ranges = ['short_term']
+    dfs = []
     for r in ranges:
         track_ids = get_user_top_tracks(r)
 
@@ -133,13 +137,19 @@ def get_user_top_tracks_data():
             features.append(get_track_features(id))
 
         df = pd.DataFrame(features, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'time_signature'])
-        df.to_csv(f"data/user_daviskeene_{r}.csv", sep = ',')
+        if save:
+            df.to_csv(f"data/user_daviskeene_{r}.csv", sep = ',')
+        dfs.append(df)
+    print(dfs[0].columns, dfs[0].head())
+    return dfs
     
 
-def main(artist):
+def save_artist_data(artist, save=False):
     artist = get_artist(artist)
-    get_discography_data(artist)
+    return get_discography_data(artist, save)
 
 if __name__ == "__main__":
-    # get_user_top_tracks_data()
-    main("Wallows")
+    personal_dfs = get_user_top_tracks_data(save=False)
+    df_discography = save_artist_data("Taylor Bennett")
+
+    print(_get_sorted_discography_list(df_discography, personal_dfs[0]))

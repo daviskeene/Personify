@@ -1,0 +1,44 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,AMERICAN REJECT (WHITEHOUSE FREESTYLE),THE AMERICAN REJECT,Taylor Bennett,2019-05-28,147066,17,0.338,0.33,0.338,0.745,0.0,0.219,-7.224,0.0825,84.616,4
+1,IN MY HEAD,THE AMERICAN REJECT,Taylor Bennett,2019-05-28,184893,34,0.611,0.0648,0.611,0.671,0.0,0.108,-8.195,0.0401,78.028,4
+2,STREAMING SERVICES,THE AMERICAN REJECT,Taylor Bennett,2019-05-28,261704,28,0.598,0.362,0.598,0.322,0.0,0.136,-12.935,0.0502,77.531,4
+3,KIDS N THE SKY,THE AMERICAN REJECT,Taylor Bennett,2019-05-28,153566,16,0.433,0.17,0.433,0.529,0.0,0.268,-10.432,0.13,136.941,4
+4,SINGING THE BLUES,THE AMERICAN REJECT,Taylor Bennett,2019-05-28,167800,18,0.892,0.65,0.892,0.483,0.0,0.354,-12.929,0.527,117.313,4
+5,I MISS YOU,THE AMERICAN REJECT,Taylor Bennett,2019-05-28,128000,20,0.462,0.558,0.462,0.691,0.0,0.18,-9.609,0.0852,90.187,4
+6,NO ONE OUTSIDE,THE AMERICAN REJECT,Taylor Bennett,2019-05-28,230272,40,0.658,0.489,0.658,0.478,0.0,0.0719,-12.496,0.174,147.975,4
+7,"ONE, TWO",THE AMERICAN REJECT,Taylor Bennett,2019-05-28,158879,14,0.685,0.11,0.685,0.61,0.0,0.0687,-10.612,0.121,149.0,4
+8,Intro (The Kid's Alright) [feat. Princeton],Restoration of an American Idol,Taylor Bennett,2017-02-28,223143,25,0.397,0.704,0.397,0.504,0.0,0.0684,-13.682,0.425,85.064,3
+9,Roof Gone,Restoration of an American Idol,Taylor Bennett,2017-02-28,216599,28,0.553,0.481,0.553,0.496,1.03e-05,0.0941,-9.072,0.26,163.89,4
+10,Grown up Fairy Tales (feat. Chance the Rapper & Jeremih),Restoration of an American Idol,Taylor Bennett,2017-02-28,234022,47,0.509,0.757,0.509,0.59,0.0,0.152,-6.523,0.114,160.25,3
+11,Favorite Colors (feat. Kyle),Restoration of an American Idol,Taylor Bennett,2017-02-28,138959,50,0.745,0.703,0.745,0.668,0.000127,0.0907,-8.682,0.287,127.837,4
+12,Play My Part (feat. Aubree Jenai),Restoration of an American Idol,Taylor Bennett,2017-02-28,164102,29,0.786,0.775,0.786,0.327,0.00113,0.162,-13.869,0.384,116.897,4
+13,New York Nights (feat. Stro & Jordan Bratton),Restoration of an American Idol,Taylor Bennett,2017-02-28,230372,28,0.633,0.755,0.633,0.598,0.00742,0.143,-8.025,0.0295,103.956,4
+14,Nobody Tell a Name (feat. Raury),Restoration of an American Idol,Taylor Bennett,2017-02-28,168333,32,0.912,0.136,0.912,0.507,2.36e-06,0.205,-8.354,0.557,144.018,4
+15,Neon Lights (feat. Supa Bwe & Lil Yachty),Restoration of an American Idol,Taylor Bennett,2017-02-28,305478,35,0.693,0.697,0.693,0.632,1.16e-06,0.0627,-7.578,0.338,176.218,4
+16,Outro (Chi-Town Anthem),Restoration of an American Idol,Taylor Bennett,2017-02-28,224403,25,0.587,0.321,0.587,0.589,0.0,0.684,-9.168,0.442,155.818,3
+17,Happy Place (feat. Brill),Broad Shoulders,Taylor Bennett,2015-12-14,224397,28,0.542,0.823,0.542,0.765,3.72e-06,0.0983,-7.535,0.526,141.719,4
+18,Wasting Time (feat. Simone Bisous),Broad Shoulders,Taylor Bennett,2015-12-14,216317,30,0.502,0.46,0.502,0.543,1.16e-06,0.0901,-9.858,0.166,112.514,4
+19,Smile (feat. Logan Parks),Broad Shoulders,Taylor Bennett,2015-12-14,185945,22,0.519,0.659,0.519,0.599,0.0,0.106,-11.475,0.452,99.794,4
+20,Fall Back Fools (feat. Max),Broad Shoulders,Taylor Bennett,2015-12-14,198298,27,0.362,0.961,0.362,0.496,0.000306,0.0939,-10.932,0.289,81.025,4
+21,Favorite Drink (feat. King Louie & Joey Purp),Broad Shoulders,Taylor Bennett,2015-12-14,229923,25,0.782,0.847,0.782,0.607,0.0,0.191,-8.921,0.265,117.872,4
+22,Cake (feat. Talia Stewart),Broad Shoulders,Taylor Bennett,2015-12-14,237075,26,0.561,0.823,0.561,0.642,0.0,0.0982,-10.518,0.362,127.39,4
+23,H.Y.B.L. (How You Been Lately),Broad Shoulders,Taylor Bennett,2015-12-14,271859,27,0.569,0.75,0.569,0.487,0.0,0.102,-13.467,0.49,135.582,4
+24,You (feat. Jordan Bratton),Broad Shoulders,Taylor Bennett,2015-12-14,201642,20,0.545,0.329,0.545,0.827,0.00715,0.194,-7.695,0.217,136.182,4
+25,"Dancing in the Rain (feat. Donnie Trumpet, Brandon Fox & Shay Lewis)",Broad Shoulders,Taylor Bennett,2015-12-14,236936,45,0.302,0.817,0.302,0.475,2.07e-05,0.322,-11.729,0.156,83.897,3
+26,Broad Shoulders (feat. Chance the Rapper),Broad Shoulders,Taylor Bennett,2015-12-14,227263,51,0.6,0.822,0.6,0.524,3.29e-05,0.104,-9.297,0.146,127.5,4
+27,Be Yourself Pt. 2 (Sunset Falls),Be Yourself Pt. 2 (Sunset Falls),Taylor Bennett,2020-10-09,275120,46,0.548,0.00894,0.548,0.583,0.0,0.0865,-8.524,0.358,163.967,4
+28,Good Guy,Good Guy,Taylor Bennett,2020-02-04,183439,29,0.69,0.0666,0.69,0.782,0.0,0.126,-6.368,0.232,78.493,4
+29,Streaming Services,Streaming Services,Taylor Bennett,2019-01-07,260179,22,0.571,0.00336,0.571,0.266,0.0,0.168,-13.269,0.0862,155.028,4
+30,BE YOURSELF,BE YOURSELF,Taylor Bennett,2018-07-13,256893,27,0.539,0.513,0.539,0.788,1.77e-06,0.0926,-5.72,0.346,174.705,4
+31,Rock 'N' Roll,BE YOURSELF,Taylor Bennett,2018-07-13,169213,28,0.491,0.334,0.491,0.7,0.0,0.347,-3.858,0.147,133.945,4
+32,Hype me Up,BE YOURSELF,Taylor Bennett,2018-07-13,162120,27,0.711,0.289,0.711,0.584,0.0,0.128,-7.873,0.157,106.985,4
+33,Better than you ever Been,BE YOURSELF,Taylor Bennett,2018-07-13,156813,27,0.67,0.448,0.67,0.661,0.0,0.136,-5.786,0.191,104.453,4
+34,Everything I can't Handle,BE YOURSELF,Taylor Bennett,2018-07-13,200893,22,0.521,0.752,0.521,0.836,0.0,0.0975,-6.086,0.516,81.452,4
+35,Know Yourself (Outro),BE YOURSELF,Taylor Bennett,2018-07-13,269080,19,0.55,0.404,0.55,0.808,0.0,0.0819,-6.357,0.309,68.776,4
+36,Minimum Wage,Minimum Wage,Taylor Bennett,2018-02-24,167609,36,0.858,0.401,0.858,0.749,0.0,0.0759,-6.574,0.319,134.074,4
+37,Only Difference,Only Difference,Taylor Bennett,2017-12-21,164202,19,0.614,0.692,0.614,0.79,0.00101,0.105,-6.106,0.333,93.722,4
+38,So High (feat. Bianca Shaw),So High (feat. Bianca Shaw),Taylor Bennett,2017-11-02,187375,36,0.722,0.673,0.722,0.663,1.37e-05,0.096,-7.931,0.248,129.727,4
+39,Walls,Walls,Madds,2017-06-30,170000,34,0.76,0.383,0.76,0.621,0.0,0.0973,-5.507,0.0543,120.059,4
+40,New York Nights (feat. Stro & Jordan Bratton),New York Nights (feat. Stro & Jordan Bratton),Taylor Bennett,2016-12-14,230372,23,0.648,0.755,0.648,0.598,0.0073,0.144,-8.024,0.0295,103.937,4
+41,Straight from the Bottom,Straight from the Bottom,Taylor Bennett,2016-04-04,140946,26,0.809,0.749,0.809,0.51,1.68e-06,0.076,-10.565,0.183,123.013,4
+42,Video Games,Video Games,Curci,2014-05-08,180715,1,0.228,0.0273,0.228,0.888,0.0,0.912,-4.958,0.354,84.735,4
