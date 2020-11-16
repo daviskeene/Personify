@@ -9,10 +9,18 @@
     <article id="main">
     <ol>
         {% for i in results %}
-            <li><a href="{{ i.external_urls.spotify }}">{{ i.name }}</a><br></li>
+            <li><a href="{{ i.href }}">{{ i.name }}</a><br></li>
         {% endfor %}
     </ol>
     </article>
+</div>
+<div class="container">
+    <form method="POST" action="" style= text-align:center;>
+        {% csrf_token %}
+        {{ form.as_p }}
+       <input type="text" name="handle" placeholder="Enter the name of an artist..." value="" style=width:800px;height:50px;font-size:20px><br>
+   <input type="submit" value="Get Artist">
+   </form>
 </div>
 </body>
 </html>

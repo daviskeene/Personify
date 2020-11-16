@@ -14,6 +14,8 @@ def get_sorted_discography_list(path_to_disc, path_to_personal):
 
 def _get_sorted_discography_list(df_disc, df_personal):
     df = _compute_rank(df_disc, df_personal)
+    print(df.columns)
+    print(df.head())
     return [(x[0], x[1]['zscore_sum']) for x in df.iterrows()]
 
 def compute_rank(path_to_disc, path_to_personal):
