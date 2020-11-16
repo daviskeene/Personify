@@ -3,7 +3,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 import pandas as pd
 
-from predictions import _compute_rank, _get_sorted_discography_list
+from .predictions import _compute_rank, _get_sorted_discography_list
 
 """
 Code inspired by:
