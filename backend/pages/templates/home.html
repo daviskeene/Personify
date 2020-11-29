@@ -1,13 +1,50 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Home</title>
+    <title>Artistly</title>
+    <link rel="stylesheet"  href="{%  static  'css/style.css'  %}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
 </head>
 <body>
+
+
+<div class="wrapper">
+    <header>
+    <nav>
+        <div class="menu-icon">
+            <i class="fa fa-bars fa-2x"></i>
+        </div>
+        <div class="menu">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    </header>
+</div>
+
+<div class="container">
+    <h1 style="top: 20px; text-align: center;">Artistly</h1>
+    <p>
+        Find music you like from artists you love.
+    </p>
+    <a href="{% url 'sign-in' %}">Sign In</a>
+</div>
+
 <div class="container">
     <article id="main">
-        <a href="{% url 'sign-in' %}">Sign In</a>
+    <ol>
+        {% for i in results %}
+            <li><a href="{{ i.href }}">{{ i.name }}</a><br></li>
+        {% endfor %}
+    </ol>
     </article>
 </div>
 </body>

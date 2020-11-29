@@ -7,30 +7,50 @@
     <link rel="stylesheet"  href="{%  static  'css/style.css'  %}">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
 </head>
 <body>
 
+<div class="wrapper">
+    <header>
+        <nav>
+            <div class="menu-icon">
+                <i class="fa fa-bars fa-2x"></i>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        </header>
+</div>
+
 <div class="container">
-    <h1>Artistly</h1>
+    <h1 style="top: 0px;">Artistly</h1>
     <p>
         Find music you like from artists you love.
     </p>
+</div>
+
+<div>
     <form method="POST" action="" style= text-align:center;>
         {% csrf_token %}
         {{ form.as_p }}
        <input type="text" name="handle" placeholder="Enter the name of an artist..." value="" style=width:800px;height:50px;font-size:20px><br>
-   <input type="submit" value="Get Artist">
+   <input type="submit" value="Get Ranked Discography">
    </form>
 </div>
 
 <div class="container">
-    <article id="main">
-    <ol>
+    <ul class="results center">
         {% for i in results %}
             <li><a href="{{ i.href }}">{{ i.name }}</a><br></li>
         {% endfor %}
-    </ol>
-    </article>
+    </ul>
 </div>
 </body>
 </html>
