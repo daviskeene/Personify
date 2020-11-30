@@ -1,0 +1,5 @@
+spotipy==2.16.1
+Django==3.0.6
+numpy==1.18.4
+pandas==1.1.4
+matplotlib==3.2.1
