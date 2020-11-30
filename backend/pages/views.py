@@ -57,7 +57,7 @@ def sign_in(request):
         for i in range(len(tups)):
             tups[i] = (tups[i][0], tups[i][1], sorted_list[i][1])
         results = [{'name' : x[0], 'href' : x[1], 'score' : x[2]} for x in tups]
-        return render(request, 'sign-in.html', {'results' : results})
+        return render(request, 'sign-in.html', {'results' : results, 'artist' : screenname})
 
     total = []
     ids = []
@@ -71,7 +71,7 @@ def sign_in(request):
     #     for track in r['items']:
     #         tracks.append(track)
 
-    return render(request, 'sign-in.html', {'results': tracks})
+    return render(request, 'sign-in.html', {'results': tracks, 'artist' : ''})
 
 
 def after_sign_in(request):
@@ -84,4 +84,4 @@ def after_sign_in(request):
     if token_info:
         sp = spotipy.Spotify(auth=token_info['access_token'])
         results = sp.current_user_saved_tracks()
-    return render(request, 'sign-in.html', {'results': results['items']})
+    return render(request, 'sign-in.html', {'results': results['items'], 'artist' : ''})

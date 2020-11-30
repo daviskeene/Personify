@@ -14,12 +14,9 @@
 <div class="wrapper">
     <header>
         <nav>
-            <div class="menu-icon">
-                <i class="fa fa-bars fa-2x"></i>
-            </div>
             <div class="menu">
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">Contact</a></li>
@@ -29,10 +26,15 @@
         </header>
 </div>
 
-<div class="container">
-    <h1 style="top: 0px;">Artistly</h1>
+<div style="margin-top: 8em; position: relative; width: 50%; display: inline-block;">
+    <h1>Artistly</h1>
     <p>
         Find music you like from artists you love.
+    </p>
+
+    <p style="font-size: 18px;">
+        Artistly ranks a Spotify artists' discography based on your recent listening history. Using Spotify's song metrics and other data,
+        we'll let you know which songs you're most likely to enjoy from any given artist.
     </p>
 </div>
 
@@ -40,8 +42,8 @@
     <form method="POST" action="" style= text-align:center;>
         {% csrf_token %}
         {{ form.as_p }}
-       <input type="text" name="handle" placeholder="Enter the name of an artist..." value="" style=width:800px;height:50px;font-size:20px><br>
-   <input type="submit" value="Get Ranked Discography">
+       <input type="text" name="handle" placeholder="Enter the name of an artist..." value="{{ artist }}" style=width:800px;height:50px;font-size:20px><br>
+   <input type="submit" value="Get Ranked Discography" class="button">
    </form>
 </div>
 
