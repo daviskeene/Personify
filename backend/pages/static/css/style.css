@@ -15,7 +15,7 @@ body {
 
 p {
     color: white;
-    font: 200 30px/1 'Montserrat';
+    font: 300 30px/1 'Montserrat';
 	  letter-spacing: 1px;
 }
 
@@ -131,6 +131,7 @@ nav ul li a {
 
 input {
   background: rgba(0,0,0,0.4);
+  background-color: #000;
   border: none;
   border-bottom: 2px solid gray;
   position: relative;
@@ -144,6 +145,11 @@ input {
   color: #fff;
   -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
   box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+}
+
+input[type="text"], textarea {
+  background-color : #000;
+  color: #fff;
 }
 
 .button {

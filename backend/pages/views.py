@@ -27,6 +27,9 @@ def next_offset(n):
 def home(request):
     return render(request, 'home.html', {})
 
+def about(request):
+    return render(request, 'about.html', {})
+
 
 def sign_in(request):
 

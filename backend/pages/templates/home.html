@@ -20,10 +20,10 @@
         </div>
         <div class="menu">
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="{% url 'about' %}">About</a></li>
+                <li><a href="https://daviskeene.com/blog/">Blog</a></li>
+                <li><a href="mailto:dbkeene.tsyc@gmail.com">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -33,7 +33,7 @@
 <div style="margin-top: 8em; position: relative; width: 50%; display: inline-block;">
     <h1 style="top: 20px; text-align: center;">Artistly</h1>
     <p>
-        Find music you like from artists you love.
+        Find your new favorite songs from Spotify artists.
     </p>
     <a href="{% url 'sign-in' %}" class="button" style="font-size: 20px; line-height: 1.2;">Sign In with Spotify</a>
 </div>
