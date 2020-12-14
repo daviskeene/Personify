@@ -1,7 +1,7 @@
-# Artistly
+# Personify
 
-Artistly is a music recommendation platform that uses your recent listening history to rank an artists' discography.
-Artistly helps you find out which songs from any given artist you're most likely to enjoy.
+Personify is a music recommendation platform that uses your recent Spotify listening history to help you see what songs you should be listening to.
+Personify can tell you the likelihood that you'll enjoy a particular song, and rank playlists / discographies in order from highest to lowest likeability.
 
 ## Installation
 
