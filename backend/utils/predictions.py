@@ -10,13 +10,13 @@ def csv_to_df(path):
 
 def get_sorted_discography_list(path_to_disc, path_to_personal):
     df = compute_rank(path_to_disc, path_to_personal)
-    return [(x[0], x[1]['zscore_sum']) for x in df.iterrows()]
+    return [(x[0], x[1]['likeability']) for x in df.iterrows()]
 
 def _get_sorted_discography_list(df_disc, df_personal):
     df = _compute_rank(df_disc, df_personal)
     print(df.columns)
     print(df.head())
-    return [(x[0], x[1]['zscore_sum']) for x in df.iterrows()]
+    return [(x[0], x[1]['likeability']) for x in df.iterrows()]
 
 def compute_rank(path_to_disc, path_to_personal):
     """
@@ -36,19 +36,33 @@ def _compute_rank(df_disc, df_personal):
 
     sum_zs = [sum_z(list(df_disc._get_numeric_data().loc[i]), w_mean, stds) for i in range(df_disc.shape[0])]
     df_disc['zscore_sum'] = sum_zs
-    df_disc = df_disc.groupby('name').mean().sort_values(by='zscore_sum', ascending=True)
+    # Feed values through activation function
+    likeability = [activation(alpha) for alpha in sum_zs]
+    df_disc['likeability'] = likeability
+    df_disc = df_disc.groupby('name').mean().sort_values(by='likeability', ascending=False)
 
     return df_disc
+
+def activation(alpha):
+    """
+    Activation function given a z-score sum alpha.
+    """
+    factor = 8.5
+    return np.e ** -((alpha/factor) ** 2)
 
 
 def compute_weighted_mean(df):
     # get an average of all the columns for my songs
-    my_mean = df.mean()
-    weighted_mean = [0] * len(my_mean)
-    for entry in df._get_numeric_data().iterrows():
-        for i in range(len(entry[1])):
-            weighted_mean[i] += entry[1][i] * (np.e ** (-1.0 * entry[0]))
-    return weighted_mean
+    features = [0] * len(df.mean())
+    total_entries = 0
+    for i, song_metrics in enumerate(df._get_numeric_data().iterrows()):
+        # print(song_metrics)
+        for idx, feature in enumerate(song_metrics[1]):
+            features[idx] += (len(df) - i) * feature
+        total_entries += (len(df) - i)
+
+    ideal_features = [x / total_entries for x in features]
+    return ideal_features
 
 
 def clean_df(df):

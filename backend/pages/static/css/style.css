@@ -226,6 +226,10 @@ input[type="text"], textarea {
   font-size: 18px;
 }
 
+.results li span {
+  align-self: flex-end;
+}
+
 
 /* Element separation */
 .results li + li {

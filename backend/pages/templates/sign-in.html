@@ -34,23 +34,39 @@
 
     <p style="font-size: 18px;">
         Personify ranks a Spotify artists' discography based on your recent listening history. Using Spotify's song metrics and other data,
-        we'll let you know which songs you're most likely to enjoy from any given artist.
+        we'll let you know which songs you're most likely to enjoy from any given artist. You can also give us an individual song name, and we'll tell you
+        the chance that you'll enjoy it.
     </p>
 </div>
 
-<div>
-    <form method="POST" action="" style= text-align:center;>
-        {% csrf_token %}
-        {{ form.as_p }}
-       <input type="text" name="handle" placeholder="Enter the name of an artist..." value="{{ artist }}" style=width:800px;height:50px;font-size:20px><br>
-   <input type="submit" value="Get Ranked Discography" class="button">
-   </form>
+<div id="wrapper">
+    <div id="artist" style="display: inline-block;">
+        <form method="POST" action="" style= text-align:center;>
+            {% csrf_token %}
+            {{ form.as_p }}
+        <input type="text" name="handle" placeholder="Enter the name of an artist..." value="{{ artist }}" style=width:400px;height:50px;font-size:20px;display:inline-block;><br>
+    <input type="submit" value="Get Ranked Discography" class="button">
+    </form>
+    </div>
+
+    <!-- <div id="song" style="display: inline-block;">
+        <form method="POST" action="" style= text-align:center;>
+            {% csrf_token %}
+            {{ form.as_p }}
+        <input type="text" name="handle" placeholder="Enter the name of a song..." value="" style=width:400px;height:50px;font-size:20px;display:inline-block;><br>
+    <input type="submit" value="Compute Likeability" class="button">
+    </form>
+    </div> -->
 </div>
+
 
 <div class="container">
     <ul class="results center">
         {% for i in results %}
-            <li><a href="{{ i.href }}" target="_blank">{{ i.name }}</a><br></li>
+            <li style="overflow: hidden;">
+                <a href="{{ i.href }}" target="_blank" style="float: left;">{{ i.name }}</a>
+                <!-- <span style="float: right; color: #FFF;">{{ i.score }}</span> -->
+            </li>
         {% endfor %}
     </ul>
 </div>
